@@ -307,4 +307,4 @@ one. If asked to add something the notes do not show, add it only as
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by Fully Powered AI. Editorially reviewed. Tried on its invented example in Claude on 9 November 2026, in two runs with the instructions corrected between them; the record of the second run is published with the template. The instructions were clarified after that run, on the same day, without a further run; the record lists what changed. Not yet tested in a client environment.
+- 0.1.0, 9 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its invented example in Claude on 9 November 2026, in two runs with the instructions corrected between them; the record of the second run is published with the template. The instructions were clarified after that run, on the same day, without a further run; the record lists what changed. Not yet tested in a client environment.

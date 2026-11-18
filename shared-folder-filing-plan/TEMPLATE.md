@@ -237,4 +237,4 @@ recount.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI from its own map of office filing work. Editorially reviewed. Tried once on its invented example, in Claude on 10 November 2026, not fully blind (see the trial record); not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI from its own map of office filing work. Editorially reviewed. Tried once on its invented example, in Claude on 10 November 2026, not fully blind (see the trial record); not yet tested in a client environment.
