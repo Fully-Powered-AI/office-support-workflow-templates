@@ -1,14 +1,63 @@
-# FullyPowered Workflow Templates: Executive and Office Support
+# AI workflow templates for executive assistants and office managers
 
-Meetings that end in decisions, and decisions that get done. These workflow templates take the preparation and follow-through around the working day and give an AI assistant a precise way to handle it, so nothing agreed in a room is lost on the way out.
+FullyPowered Workflow Templates for executive and office support teams turn the AI your company already pays for into a team that knows how the work is done: an executive assistant with the week-ahead calendar review prepared, an office manager with the monthly staff newsletter drafted, a chief of staff with every leadership decision and action logged. 12 workflow templates, made to be customized and deployed. All plain Markdown, all free, MIT license.
 
-**These are templates, made to be customized and deployed.** They are examples and a starting point, not a complete list: copy one, change it to fit how your team does the work, and run it in the AI you already pay for.
+We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
-**FullyPowered AI customizes and builds AI workflows that run in ChatGPT, Claude, Copilot and Gemini**, including ones that run several steps. [More examples for executive assistants and office managers](https://fullypowered.ai/functions/executive-and-office-support/?from=gh-office-support) · [Have one built for your team](https://fullypowered.ai/pricing/?from=gh-office-support)
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for executive and office support teams](https://fullypowered.ai/functions/executive-and-office-support/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-readme&from=gh-office-support-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-readme&from=gh-office-support-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-This repository holds 12 workflow templates for executive assistants, office managers and anyone who runs a meeting. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
+**Who this is for**
 
-## The workflow templates
+- Owners and CEOs who want their leadership team's meetings, decisions and follow-through handled the same careful way each time.
+- Office managers and chiefs of staff who want a workflow their team can start running this week.
+- Executive assistants and anyone running a meeting, who get a precise way to prepare and still make the call.
+
+**What these are for**
+
+- **Your best way of doing it, for the whole team.** One piece of work, written down precisely enough that an assistant prepares it the same way every time.
+- **Work you can check.** Every template says what it needs, what it produces, what it checked and what it could not.
+- **A person decides.** Anything that sends, posts, pays or changes a record waits for someone to approve it.
+- **Tied into your business systems.** A workflow can be designed to pull from the systems your company already runs, and even push data back into them, with guardrails and a person approving. [Browse the Connectors Directory](https://fullypowered.ai/connectors/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-readme&from=gh-office-support-readme).
+- **Free, open and portable.** MIT-licensed plain instructions that run in the assistant or agent your team already uses: ChatGPT, Claude, Claude Code, Claude Cowork, Codex, Copilot, Gemini, Grok, Perplexity.
+
+**Quick start**
+
+1. **Turn your meeting notes into a record.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into it and replace the square brackets with your own notes from a meeting you ran. You can use rough notes. Nothing is sent to anyone, and you read the result before it goes anywhere.
+
+   ```text
+   I run a meeting and need a record of it. Below are my notes, the agenda I used and last time's open actions. Today's date is [today]. Write one page with these parts: Decisions, Actions, Parked, Open questions, Open from last time, For the record. Enter a decision only where the notes show something was settled. Give every action one owner and one date. Where the notes name no owner or no date, write OWNER NEEDED or DATE NEEDED. Never choose an owner or a date yourself. List every gap as a question first, then write a follow-up message for the attendees, marked NOT READY TO SEND while any gap is open. Leave out anything about one person's pay, health or conduct. Send nothing. I will decide and send.
+
+   Agenda: [paste agenda]
+   Open from last time: [paste actions]
+   My notes: [paste notes]
+   ```
+
+2. Read what comes back. It marks what it checked and what is left for you. What comes out (invented example):
+
+   ```text
+   DRAFT AGENDA: Weekly operations meeting
+   Tuesday 3 November 2026, 9:00 to 9:45 (45 minutes). Run by: Priya (operations manager).
+   Invited: Marcus (service manager), Elena (install manager), Tom (warehouse lead), Jo (office manager).
+
+   To settle before this goes out: 3
+   1. The topics do not fit. Four timed topics take 45 minutes and the read-back takes 5: 50 minutes
+      in a 45-minute meeting, 5 over. Proposal: the install backlog update only informs, so Elena
+      sends it in writing and it comes off the agenda. The agenda below shows that proposal applied.
+      Say if you would rather change something else.
+   2. "Parts returns" has no outcome. What should the meeting settle: a new process, who owns
+      returns, or something else?
+   3. "New scheduling software" has no outcome, no lead and no time. It is left off. Add them and it
+      goes on.
+   ```
+
+3. Stop there. You will know if this is for you. When you want it fitted to your company, or built into your agents, [that is what we do](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-readme&from=gh-office-support-readme).
+
+In every workflow here, a person starts the work, supplies the inputs and decides, and the template prepares and checks.
+
+These are examples and a starting point, made to be customized to how your office works. They do not cover every job in an office, and a workflow can be one step or many. Work that is not here can be built for your company.
+
+## The workflow templates here today
 
 - **[Board meeting pack](board-meeting-pack/)**: Before each board meeting, the CEO gets a pre-read built on the one decision the board is asked to make, with every figure from the company's own reports, an agenda kept mostly for discussion and the questions directors are likely to ask. Afterwards, a record of what was decided. The CEO sends it all.
 - **[Business trip plan](business-trip-plan/)**: The assistant hands the traveller one plan for one business trip: dates and nights fixed from the brief, travel and hotel options with prices and the day each was checked, a day-by-day timetable around the meetings, the cost against travel policy and the bookings still to make. Nothing is booked or paid.
@@ -41,10 +90,10 @@ Each folder says exactly what was checked and when: who wrote it, that its sourc
 
 ## More workflow templates
 
-The [FullyPowered Workflows Directory](https://fullypowered.ai/workflows/) lists every workflow template across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
+The [FullyPowered Workflows Directory](https://fullypowered.ai/workflows/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-readme&from=gh-office-support-readme) lists every workflow template across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
 
-For the work these templates come from, by team and by task, see [AI workflow examples for executive assistants and office managers](https://fullypowered.ai/functions/executive-and-office-support/).
+For the work these templates come from, by team and by task, see [AI workflow examples for executive assistants and office managers](https://fullypowered.ai/functions/executive-and-office-support/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-readme&from=gh-office-support-readme).
 
 ## Licence and credits
 
-MIT, in [LICENSE](LICENSE) and in every folder. Each folder's SOURCES.md names what the workflow template drew on. Published by [FullyPowered AI](https://fullypowered.ai/).
+MIT, in [LICENSE](LICENSE) and in every folder. Each folder's SOURCES.md names what the workflow template drew on. Published by [FullyPowered AI](https://fullypowered.ai/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-readme&from=gh-office-support-readme).

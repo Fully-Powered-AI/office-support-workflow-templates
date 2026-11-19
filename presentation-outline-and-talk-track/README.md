@@ -1,10 +1,17 @@
 # Presentation outline and talk track
 
-Anyone presenting to a board, a client or a conference gets a storyboard built on one message, then a spoken script for every slide, timed to the slot and true to their own speaker notes. Every fact comes from what the presenter supplied, and the presenter approves the message and the words.
+A storyboard built on one message, then a timed spoken script for every slide from your own notes. The presenter approves the message and the words.
 
-*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/presentation-outline-and-talk-track/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Presentation outline and talk track on our website](https://fullypowered.ai/workflows/presentation-outline-and-talk-track/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-presentation-outline-and-talk-track&from=gh-presentation-outline-and-talk-track) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/presentation-outline-and-talk-track/?from=gh-presentation-outline-and-talk-track)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/presentation-outline-and-talk-track/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-presentation-outline-and-talk-track&from=gh-presentation-outline-and-talk-track)*
 
 ## The outcome
 
@@ -39,14 +46,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Executive and office support](https://fullypowered.ai/functions/executive-and-office-support/): the assistant or chief of staff who prepares a leader's board slot, keynote or all-staff briefing.
-- [Leadership](https://fullypowered.ai/functions/leadership/): the owner, managing director or founder whose update to a board or investors has to land in minutes.
-- [Sales](https://fullypowered.ai/functions/sales/): the client presentation or pitch, where the account lead has fifteen minutes and one thing to win.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): partners presenting findings and proposals to clients.
-- [Software technology](https://fullypowered.ai/industries/software-technology/): founders and product leaders at investor meetings, customer events and conferences.
-- [Nonprofits](https://fullypowered.ai/industries/nonprofits/): directors presenting to trustees and funders.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/): the standing board or leadership update that deserves a sharper story.
-- [Startups and new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/): the investor update or pitch, where every minute and every figure counts.
+- [Executive and office support](https://fullypowered.ai/functions/executive-and-office-support/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-presentation-outline-and-talk-track&from=gh-presentation-outline-and-talk-track): the assistant or chief of staff who prepares a leader's board slot, keynote or all-staff briefing.
+- [Leadership](https://fullypowered.ai/functions/leadership/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-presentation-outline-and-talk-track&from=gh-presentation-outline-and-talk-track): the owner, managing director or founder whose update to a board or investors has to land in minutes.
+- [Sales](https://fullypowered.ai/functions/sales/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-presentation-outline-and-talk-track&from=gh-presentation-outline-and-talk-track): the client presentation or pitch, where the account lead has fifteen minutes and one thing to win.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-presentation-outline-and-talk-track&from=gh-presentation-outline-and-talk-track): partners presenting findings and proposals to clients.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-presentation-outline-and-talk-track&from=gh-presentation-outline-and-talk-track): founders and product leaders at investor meetings, customer events and conferences.
+- [Nonprofits](https://fullypowered.ai/industries/nonprofits/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-presentation-outline-and-talk-track&from=gh-presentation-outline-and-talk-track): directors presenting to trustees and funders.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-presentation-outline-and-talk-track&from=gh-presentation-outline-and-talk-track): the standing board or leadership update that deserves a sharper story.
+- [Startups and new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-presentation-outline-and-talk-track&from=gh-presentation-outline-and-talk-track): the investor update or pitch, where every minute and every figure counts.
 
 ## What has to change for your company
 
@@ -56,7 +63,7 @@ Set each presenter's pace, ideally from one timed read-aloud. Decide how much of
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it, and lists the one edit made afterward, which has not been run again. The run produced both passes in full; none of the stop conditions was reached, and the fourteen acceptance tests in the template were not run. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past talks whose slides and notes you still have, plus hard cases written in advance: a slide that contradicts its notes, a figure nobody has supplied, a note marked not for circulation, a script that will not fit the slot. The presenter checks every fact in the script against its source and reads the script aloud against a clock before relying on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three past talks whose slides and notes you still have, plus hard cases written in advance: a slide that contradicts its notes, a figure nobody has supplied, a note marked not for circulation, a script that will not fit the slot. The presenter checks every fact in the script against its source and reads the script aloud against a clock before relying on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-presentation-outline-and-talk-track&from=gh-presentation-outline-and-talk-track) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-presentation-outline-and-talk-track&from=gh-presentation-outline-and-talk-track) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -84,9 +91,9 @@ Testing in your environment means running it on two or three past talks whose sl
 ## Related workflow templates
 
 - [Meeting agenda, notes and follow-ups](../meeting-agenda-notes-and-follow-ups/)
-- [Quarterly business review preparation](https://fullypowered.ai/workflows/quarterly-business-review-preparation/)
-- [Recorded sessions into articles](https://fullypowered.ai/workflows/recorded-sessions-into-articles/)
+- [Quarterly business review preparation](https://fullypowered.ai/workflows/quarterly-business-review-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-presentation-outline-and-talk-track&from=gh-presentation-outline-and-talk-track)
+- [Recorded sessions into articles](https://fullypowered.ai/workflows/recorded-sessions-into-articles/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-presentation-outline-and-talk-track&from=gh-presentation-outline-and-talk-track)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-presentation-outline-and-talk-track&from=gh-presentation-outline-and-talk-track).

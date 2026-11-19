@@ -1,10 +1,17 @@
 # Executive week-ahead calendar review
 
-Before the week starts, the executive assistant hands the executive one brief: every clash, every journey or run of meetings with too little time, every meeting with no stated purpose or no preparation time, and proposed time for the week's priorities. Nothing is accepted, declined, moved or sent.
+Hand the executive one brief on clashes, tight journeys, meetings with no purpose and time for priorities. Nothing is moved or sent.
 
-*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/executive-week-ahead-calendar-review/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Executive week-ahead calendar review on our website](https://fullypowered.ai/workflows/executive-week-ahead-calendar-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-executive-week-ahead-calendar-review&from=gh-executive-week-ahead-calendar-review) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/executive-week-ahead-calendar-review/?from=gh-executive-week-ahead-calendar-review)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/executive-week-ahead-calendar-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-executive-week-ahead-calendar-review&from=gh-executive-week-ahead-calendar-review)*
 
 ## The outcome
 
@@ -44,14 +51,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Executive and office support](https://fullypowered.ai/functions/executive-and-office-support/): the weekly calendar review every executive assistant does, made the same each week.
-- [Leadership](https://fullypowered.ai/functions/leadership/): founders, managing directors and partners whose week fills up with other people's meetings before their own priorities.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): partners and directors moving between client sites, internal reviews and business development.
-- [Law firms](https://fullypowered.ai/industries/law-firms/): the managing partner's week of firm meetings, client visits and committee work, kept by the partner's assistant.
-- [Real estate](https://fullypowered.ai/industries/real-estate/): leaders who split the week between the office, properties and owners' meetings, where journey times decide what is possible.
-- [Nonprofits](https://fullypowered.ai/industries/nonprofits/): chief executives balancing board, funders, partners and staff with a small office team.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/): a calendar that has run on habit for years and deserves a weekly check.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): an executive whose meetings multiply faster than the time to prepare for them.
+- [Executive and office support](https://fullypowered.ai/functions/executive-and-office-support/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-executive-week-ahead-calendar-review&from=gh-executive-week-ahead-calendar-review): the weekly calendar review every executive assistant does, made the same each week.
+- [Leadership](https://fullypowered.ai/functions/leadership/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-executive-week-ahead-calendar-review&from=gh-executive-week-ahead-calendar-review): founders, managing directors and partners whose week fills up with other people's meetings before their own priorities.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-executive-week-ahead-calendar-review&from=gh-executive-week-ahead-calendar-review): partners and directors moving between client sites, internal reviews and business development.
+- [Law firms](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-executive-week-ahead-calendar-review&from=gh-executive-week-ahead-calendar-review): the managing partner's week of firm meetings, client visits and committee work, kept by the partner's assistant.
+- [Real estate](https://fullypowered.ai/industries/real-estate/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-executive-week-ahead-calendar-review&from=gh-executive-week-ahead-calendar-review): leaders who split the week between the office, properties and owners' meetings, where journey times decide what is possible.
+- [Nonprofits](https://fullypowered.ai/industries/nonprofits/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-executive-week-ahead-calendar-review&from=gh-executive-week-ahead-calendar-review): chief executives balancing board, funders, partners and staff with a small office team.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-executive-week-ahead-calendar-review&from=gh-executive-week-ahead-calendar-review): a calendar that has run on habit for years and deserves a weekly check.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-executive-week-ahead-calendar-review&from=gh-executive-week-ahead-calendar-review): an executive whose meetings multiply faster than the time to prepare for them.
 
 ## What has to change for your company
 
@@ -61,7 +68,7 @@ Set the working hours, the base and the protected times your executive actually 
 
 FullyPowered AI wrote this workflow template from its own published map of executive and office support work. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, by a model that did not write it, and the record is published. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your office means running it on two or three past weeks the assistant remembers well and comparing the brief with what happened, plus hard cases written in advance: a header named differently in the export, a journey with no time supplied, a private event that overlaps a meeting, a priority the week cannot hold, an all-day absence with a meeting booked on it. The assistant checks every figure against the export before the executive relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your office means running it on two or three past weeks the assistant remembers well and comparing the brief with what happened, plus hard cases written in advance: a header named differently in the export, a journey with no time supplied, a private event that overlaps a meeting, a priority the week cannot hold, an all-day absence with a meeting booked on it. The assistant checks every figure against the export before the executive relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-executive-week-ahead-calendar-review&from=gh-executive-week-ahead-calendar-review) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-executive-week-ahead-calendar-review&from=gh-executive-week-ahead-calendar-review) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -94,4 +101,4 @@ Testing in your office means running it on two or three past weeks the assistant
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-executive-week-ahead-calendar-review&from=gh-executive-week-ahead-calendar-review).

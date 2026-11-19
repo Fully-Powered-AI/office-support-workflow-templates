@@ -1,10 +1,17 @@
 # Inbox triage
 
-The owner, or the assistant who keeps their inbox, starts the day knowing what needs a reply today, what can wait and until when, and what belongs to someone else, with a draft or a forwarding note for each. Nothing is sent, archived, deleted or moved, and no mailbox login is needed.
+Start the day knowing what needs a reply, what can wait and what belongs to someone else, with drafts ready. The owner decides and sends every reply.
 
-*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/inbox-triage/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Inbox triage on our website](https://fullypowered.ai/workflows/inbox-triage/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-inbox-triage&from=gh-office-support-inbox-triage) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/inbox-triage/?from=gh-office-support-inbox-triage)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/inbox-triage/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-inbox-triage&from=gh-office-support-inbox-triage)*
 
 ## The outcome
 
@@ -45,14 +52,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Executive and office support](https://fullypowered.ai/functions/executive-and-office-support/): the assistant who keeps a director's or partner's inbox moving.
-- [Leadership](https://fullypowered.ai/functions/leadership/): owners and managing directors who answer most of the firm's important mail themselves.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): partners whose clients expect an answer the same day.
-- [Real estate](https://fullypowered.ai/industries/real-estate/): property managers fielding tenants, building owners, contractors and suppliers in one inbox.
-- [Construction](https://fullypowered.ai/industries/construction/): owners juggling site problems, approvals and supplier invoices between visits.
-- [Finance and investment](https://fullypowered.ai/industries/finance-and-investment/): the assistant to a partner who must keep investors, advisers and portfolio companies answered.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/): where the owner is still the address everyone writes to.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): when mail grows faster than the owner's mornings.
+- [Executive and office support](https://fullypowered.ai/functions/executive-and-office-support/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-inbox-triage&from=gh-office-support-inbox-triage): the assistant who keeps a director's or partner's inbox moving.
+- [Leadership](https://fullypowered.ai/functions/leadership/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-inbox-triage&from=gh-office-support-inbox-triage): owners and managing directors who answer most of the firm's important mail themselves.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-inbox-triage&from=gh-office-support-inbox-triage): partners whose clients expect an answer the same day.
+- [Real estate](https://fullypowered.ai/industries/real-estate/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-inbox-triage&from=gh-office-support-inbox-triage): property managers fielding tenants, building owners, contractors and suppliers in one inbox.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-inbox-triage&from=gh-office-support-inbox-triage): owners juggling site problems, approvals and supplier invoices between visits.
+- [Finance and investment](https://fullypowered.ai/industries/finance-and-investment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-inbox-triage&from=gh-office-support-inbox-triage): the assistant to a partner who must keep investors, advisers and portfolio companies answered.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-inbox-triage&from=gh-office-support-inbox-triage): where the owner is still the address everyone writes to.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-inbox-triage&from=gh-office-support-inbox-triage): when mail grows faster than the owner's mornings.
 
 ## What has to change for your company
 
@@ -62,7 +69,7 @@ Write your routing list: which messages go to whom, and who covers when they are
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 9 November 2026, in one run by a model that had not written it, and the record of that run is published with it. Afterwards the example's drafts were corrected where they went beyond the messages, and the template was clarified on the points the run had to settle for itself, such as which of two urgent replies comes first. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past mornings whose mail the owner remembers, plus hard cases written in advance: a supplier's bank details changing from a lookalike address, a customer writing for the second time, an approval due today, a promise with no message about it, an export whose columns are named differently. The owner checks every group and every draft before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three past mornings whose mail the owner remembers, plus hard cases written in advance: a supplier's bank details changing from a lookalike address, a customer writing for the second time, an approval due today, a promise with no message about it, an export whose columns are named differently. The owner checks every group and every draft before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-inbox-triage&from=gh-office-support-inbox-triage) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-inbox-triage&from=gh-office-support-inbox-triage) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -90,9 +97,9 @@ Testing in your environment means running it on two or three past mornings whose
 ## Related workflow templates
 
 - [Meeting agenda, notes and follow-ups](../meeting-agenda-notes-and-follow-ups/)
-- [Customer reply drafting](https://fullypowered.ai/workflows/customer-reply-drafting/)
-- [Supplier bill review and payment-run preparation](https://fullypowered.ai/workflows/supplier-bill-review-and-payment-run-preparation/)
+- [Customer reply drafting](https://fullypowered.ai/workflows/customer-reply-drafting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-inbox-triage&from=gh-office-support-inbox-triage)
+- [Supplier bill review and payment-run preparation](https://fullypowered.ai/workflows/supplier-bill-review-and-payment-run-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-inbox-triage&from=gh-office-support-inbox-triage)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-inbox-triage&from=gh-office-support-inbox-triage).

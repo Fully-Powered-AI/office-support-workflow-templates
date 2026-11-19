@@ -1,10 +1,17 @@
 # Delegation brief and follow-up
 
-Every task a manager hands over goes with a clear brief: what to deliver, in what form, by what date and time, why it matters, who will use it, what the person may decide alone and when the manager will check in. Each week, one list shows what is open, what is late and the next note to send.
+A clear brief for every task a manager hands over and a weekly list of what is open and late. The manager approves every note.
 
-*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/delegation-brief-and-follow-up/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Delegation brief and follow-up on our website](https://fullypowered.ai/workflows/delegation-brief-and-follow-up/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-delegation-brief-and-follow-up&from=gh-delegation-brief-and-follow-up) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/delegation-brief-and-follow-up/?from=gh-delegation-brief-and-follow-up)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/delegation-brief-and-follow-up/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-delegation-brief-and-follow-up&from=gh-delegation-brief-and-follow-up)*
 
 ## The outcome
 
@@ -41,14 +48,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Executive and office support](https://fullypowered.ai/functions/executive-and-office-support/): the executive assistant or chief of staff who keeps track of what the boss has handed out.
-- [Leadership](https://fullypowered.ai/functions/leadership/): owners and executives who delegate a great deal and want each handover to land the first time.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): partners and directors handing pieces of client and internal work to their teams under firm deadlines.
-- [Software technology](https://fullypowered.ai/industries/software-technology/): fast-moving leaders whose requests arrive in chat and need a clear shape before they go further.
-- [Finance and investment](https://fullypowered.ai/industries/finance-and-investment/): principals who hand out analysis and reporting work that feeds a fixed meeting date.
-- [Nonprofits](https://fullypowered.ai/industries/nonprofits/): a small leadership team handing work to staff and volunteers with little time to chase.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): the point where the founder can no longer do it all and has to hand work over well.
-- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/): first-time managers learning to delegate, where a clear brief spares everyone a second round.
+- [Executive and office support](https://fullypowered.ai/functions/executive-and-office-support/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-delegation-brief-and-follow-up&from=gh-delegation-brief-and-follow-up): the executive assistant or chief of staff who keeps track of what the boss has handed out.
+- [Leadership](https://fullypowered.ai/functions/leadership/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-delegation-brief-and-follow-up&from=gh-delegation-brief-and-follow-up): owners and executives who delegate a great deal and want each handover to land the first time.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-delegation-brief-and-follow-up&from=gh-delegation-brief-and-follow-up): partners and directors handing pieces of client and internal work to their teams under firm deadlines.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-delegation-brief-and-follow-up&from=gh-delegation-brief-and-follow-up): fast-moving leaders whose requests arrive in chat and need a clear shape before they go further.
+- [Finance and investment](https://fullypowered.ai/industries/finance-and-investment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-delegation-brief-and-follow-up&from=gh-delegation-brief-and-follow-up): principals who hand out analysis and reporting work that feeds a fixed meeting date.
+- [Nonprofits](https://fullypowered.ai/industries/nonprofits/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-delegation-brief-and-follow-up&from=gh-delegation-brief-and-follow-up): a small leadership team handing work to staff and volunteers with little time to chase.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-delegation-brief-and-follow-up&from=gh-delegation-brief-and-follow-up): the point where the founder can no longer do it all and has to hand work over well.
+- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-delegation-brief-and-follow-up&from=gh-delegation-brief-and-follow-up): first-time managers learning to delegate, where a clear brief spares everyone a second round.
 
 ## What has to change for your company
 
@@ -58,7 +65,7 @@ Set your working days and office closures. Decide how soon a person should confi
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the run matched the example in substance, and the record of that run is published with it and lists the open points it found. The template was then clarified on those points after an independent review; those edits have not been run again, and the record lists them. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a few weeks of past handovers you remember well, plus hard cases written in advance: a note that names two people, a date with no time, an internal name nobody explained, a remark about the person in the note, a task six working days late, a request for more time, a list export with different column names. The manager reads every brief and note before anything goes out. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a few weeks of past handovers you remember well, plus hard cases written in advance: a note that names two people, a date with no time, an internal name nobody explained, a remark about the person in the note, a task six working days late, a request for more time, a list export with different column names. The manager reads every brief and note before anything goes out. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-delegation-brief-and-follow-up&from=gh-delegation-brief-and-follow-up) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-delegation-brief-and-follow-up&from=gh-delegation-brief-and-follow-up) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -87,8 +94,8 @@ Testing in your environment means running it on a few weeks of past handovers yo
 
 - [Decision log](../decision-log/)
 - [Meeting agenda, notes and follow-ups](../meeting-agenda-notes-and-follow-ups/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-delegation-brief-and-follow-up&from=gh-delegation-brief-and-follow-up)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-delegation-brief-and-follow-up&from=gh-delegation-brief-and-follow-up).

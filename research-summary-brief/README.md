@@ -1,10 +1,17 @@
 # Research summary brief
 
-An executive handed a pile of reports, articles or papers gets one brief: what each source found, where the sources agree and disagree, the limits of each, and exact quotations cited to the page. Built only from the documents supplied. What it means for the business stays the reader's call.
+Turn a pile of reports and papers into one brief: what each source found, where they agree and differ, with quotations cited. What it means is your call.
 
-*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/research-summary-brief/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Research summary brief on our website](https://fullypowered.ai/workflows/research-summary-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-research-summary-brief&from=gh-office-support-research-summary-brief) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/research-summary-brief/?from=gh-office-support-research-summary-brief)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/research-summary-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-research-summary-brief&from=gh-office-support-research-summary-brief)*
 
 ## The outcome
 
@@ -46,24 +53,24 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Executive and office support](https://fullypowered.ai/functions/executive-and-office-support/): the assistant or chief of staff who turns a reading pile into something an executive can use before the meeting.
-- [Leadership](https://fullypowered.ai/functions/leadership/): owners and executives who must decide on evidence they have no time to read in full.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): consultants and advisers who brief a client on what the published research says.
-- [Finance and investment](https://fullypowered.ai/industries/finance-and-investment/): analysts who set industry reports and company papers side by side before an investment discussion.
-- [Nonprofits](https://fullypowered.ai/industries/nonprofits/): programme and policy staff who need to show a board what the evidence does and does not support.
-- [Government](https://fullypowered.ai/industries/government/): officials who prepare a balanced briefing from reports submitted by many parties.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/): leadership teams weighing a change against the claims of vendors, trade bodies and the press.
-- [New business lines](https://fullypowered.ai/situations/new-business-lines/): reading up on a market before committing to it.
+- [Executive and office support](https://fullypowered.ai/functions/executive-and-office-support/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-research-summary-brief&from=gh-office-support-research-summary-brief): the assistant or chief of staff who turns a reading pile into something an executive can use before the meeting.
+- [Leadership](https://fullypowered.ai/functions/leadership/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-research-summary-brief&from=gh-office-support-research-summary-brief): owners and executives who must decide on evidence they have no time to read in full.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-research-summary-brief&from=gh-office-support-research-summary-brief): consultants and advisers who brief a client on what the published research says.
+- [Finance and investment](https://fullypowered.ai/industries/finance-and-investment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-research-summary-brief&from=gh-office-support-research-summary-brief): analysts who set industry reports and company papers side by side before an investment discussion.
+- [Nonprofits](https://fullypowered.ai/industries/nonprofits/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-research-summary-brief&from=gh-office-support-research-summary-brief): programme and policy staff who need to show a board what the evidence does and does not support.
+- [Government](https://fullypowered.ai/industries/government/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-research-summary-brief&from=gh-office-support-research-summary-brief): officials who prepare a balanced briefing from reports submitted by many parties.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-research-summary-brief&from=gh-office-support-research-summary-brief): leadership teams weighing a change against the claims of vendors, trade bodies and the press.
+- [New business lines](https://fullypowered.ai/situations/new-business-lines/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-research-summary-brief&from=gh-office-support-research-summary-brief): reading up on a market before committing to it.
 
 ## What has to change for your company
 
-Decide who the usual readers are and what they need first. Set how many quotations and findings a brief carries, and the age at which a document is flagged; a fast-moving market wants a shorter limit than a slow one. Agree which documents may be given to an AI assistant at all, since internal papers and paid research may carry their own restrictions. Choose where finished briefs are kept so the next one on the same subject can start from them. For one named competitor, use [competitor profile from public pages](https://fullypowered.ai/workflows/competitor-profile-from-public-pages/); for what your own customers said, use [customer interview synthesis](https://fullypowered.ai/workflows/customer-interview-synthesis/). It runs in ChatGPT, Claude, Copilot or Gemini from the documents you supply.
+Decide who the usual readers are and what they need first. Set how many quotations and findings a brief carries, and the age at which a document is flagged; a fast-moving market wants a shorter limit than a slow one. Agree which documents may be given to an AI assistant at all, since internal papers and paid research may carry their own restrictions. Choose where finished briefs are kept so the next one on the same subject can start from them. For one named competitor, use [competitor profile from public pages](https://fullypowered.ai/workflows/competitor-profile-from-public-pages/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-research-summary-brief&from=gh-office-support-research-summary-brief); for what your own customers said, use [customer interview synthesis](https://fullypowered.ai/workflows/customer-interview-synthesis/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-research-summary-brief&from=gh-office-support-research-summary-brief). It runs in ChatGPT, Claude, Copilot or Gemini from the documents you supply.
 
 ## What has been checked
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in one run; the record is published with it, and lists the edits made afterward that have not been run again. That run did not reach the stop conditions or the requests the brief declines. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a set of documents someone on your team has already read closely, plus hard cases written in advance: a document with no date, a headline its own table does not support, two sources quoting the same study, a document that tells its reader what to conclude, a request to search for more. That person checks every figure and quotation against the page before anyone relies on the brief. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a set of documents someone on your team has already read closely, plus hard cases written in advance: a document with no date, a headline its own table does not support, two sources quoting the same study, a document that tells its reader what to conclude, a request to search for more. That person checks every figure and quotation against the page before anyone relies on the brief. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-research-summary-brief&from=gh-office-support-research-summary-brief) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-research-summary-brief&from=gh-office-support-research-summary-brief) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -90,10 +97,10 @@ Testing in your environment means running it on a set of documents someone on yo
 
 ## Related workflow templates
 
-- [Competitor profile from public pages](https://fullypowered.ai/workflows/competitor-profile-from-public-pages/)
-- [Customer interview synthesis](https://fullypowered.ai/workflows/customer-interview-synthesis/)
+- [Competitor profile from public pages](https://fullypowered.ai/workflows/competitor-profile-from-public-pages/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-research-summary-brief&from=gh-office-support-research-summary-brief)
+- [Customer interview synthesis](https://fullypowered.ai/workflows/customer-interview-synthesis/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-research-summary-brief&from=gh-office-support-research-summary-brief)
 - [Meeting agenda, notes and follow-ups](../meeting-agenda-notes-and-follow-ups/)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-research-summary-brief&from=gh-office-support-research-summary-brief).

@@ -1,10 +1,17 @@
 # Shared folder filing plan
 
-The office coordinator gets a plan for tidying a shared folder: a proposed folder structure, every file's move with its owner named, and the duplicates and access questions to settle first. Owners approve their own moves; nothing is moved, renamed or deleted.
+A plan for tidying a shared folder: a proposed structure, every move with its owner named, and duplicates to settle. Owners approve their own moves.
 
-*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/shared-folder-filing-plan/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Shared folder filing plan on our website](https://fullypowered.ai/workflows/shared-folder-filing-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-shared-folder-filing-plan&from=gh-shared-folder-filing-plan) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/shared-folder-filing-plan/?from=gh-shared-folder-filing-plan)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/shared-folder-filing-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-shared-folder-filing-plan&from=gh-shared-folder-filing-plan)*
 
 ## The outcome
 
@@ -34,12 +41,12 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Executive and office support](https://fullypowered.ai/functions/executive-and-office-support/): the coordinator who is asked to sort out the shared drive and wants owners, not guesses, deciding what moves.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): client and internal folders that have grown side by side for years.
-- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/): project folders, safety documents and supplier papers that belong in different places with different audiences.
-- [Nonprofits](https://fullypowered.ai/industries/nonprofits/): shared folders passed between staff and volunteers, where nobody remembers who owns what.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/): a drive that has outlived several office managers and several naming habits.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): the point where the founders' folder structure no longer holds a team.
+- [Executive and office support](https://fullypowered.ai/functions/executive-and-office-support/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-shared-folder-filing-plan&from=gh-shared-folder-filing-plan): the coordinator who is asked to sort out the shared drive and wants owners, not guesses, deciding what moves.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-shared-folder-filing-plan&from=gh-shared-folder-filing-plan): client and internal folders that have grown side by side for years.
+- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-shared-folder-filing-plan&from=gh-shared-folder-filing-plan): project folders, safety documents and supplier papers that belong in different places with different audiences.
+- [Nonprofits](https://fullypowered.ai/industries/nonprofits/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-shared-folder-filing-plan&from=gh-shared-folder-filing-plan): shared folders passed between staff and volunteers, where nobody remembers who owns what.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-shared-folder-filing-plan&from=gh-shared-folder-filing-plan): a drive that has outlived several office managers and several naming habits.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-shared-folder-filing-plan&from=gh-shared-folder-filing-plan): the point where the founders' folder structure no longer holds a team.
 
 ## What has to change for your company
 
@@ -49,7 +56,7 @@ Write down your own folder structure and filing rules before the first run; the 
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example, in Claude on 10 November 2026; that run was not fully blind, because the example's published output was in view, and the published trial record says so. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on one real folder you already understand, plus hard cases written in advance: a file with no owner, two files with the same name and size, a file shared by link, a file shared with a group that its new folder does not include, a record in a restricted category. The coordinator checks every proposed destination and every owner against the rules before anyone relies on the plan. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on one real folder you already understand, plus hard cases written in advance: a file with no owner, two files with the same name and size, a file shared by link, a file shared with a group that its new folder does not include, a record in a restricted category. The coordinator checks every proposed destination and every owner against the rules before anyone relies on the plan. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-shared-folder-filing-plan&from=gh-shared-folder-filing-plan) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-shared-folder-filing-plan&from=gh-shared-folder-filing-plan) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -77,9 +84,9 @@ Testing in your environment means running it on one real folder you already unde
 ## Related workflow templates
 
 - [Staff newsletter and FAQ roundup](../staff-newsletter-and-faq-roundup/)
-- [Departing-employee knowledge capture](https://fullypowered.ai/workflows/departing-employee-knowledge-capture/)
+- [Departing-employee knowledge capture](https://fullypowered.ai/workflows/departing-employee-knowledge-capture/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-shared-folder-filing-plan&from=gh-shared-folder-filing-plan)
 - [Decision log](../decision-log/)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-shared-folder-filing-plan&from=gh-shared-folder-filing-plan).

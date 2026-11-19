@@ -1,10 +1,17 @@
 # Staff newsletter and FAQ roundup
 
-Each month the office manager turns what teams send in into one staff newsletter, with answers to the questions people keep asking, each quoted from an approved source and its owner named. Nothing about one person's pay, health or performance goes in, and a person approves the issue before it goes.
+Turn what teams send in into one monthly staff newsletter, with FAQ answers quoted from approved sources. A person approves each issue before it goes.
 
-*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/staff-newsletter-and-faq-roundup/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Staff newsletter and FAQ roundup on our website](https://fullypowered.ai/workflows/staff-newsletter-and-faq-roundup/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-staff-newsletter-and-faq-roundup&from=gh-staff-newsletter-and-faq-roundup) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/staff-newsletter-and-faq-roundup/?from=gh-staff-newsletter-and-faq-roundup)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/staff-newsletter-and-faq-roundup/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-staff-newsletter-and-faq-roundup&from=gh-staff-newsletter-and-faq-roundup)*
 
 ## The outcome
 
@@ -39,14 +46,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Executive and office support](https://fullypowered.ai/functions/executive-and-office-support/): the office manager or chief of staff who keeps everyone informed without writing every word.
-- [People and HR](https://fullypowered.ai/functions/people-and-hr/): the questions about leave, parking and safety that arrive one by one, answered once for everyone.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/): shifts that rarely meet, where a monthly issue is how the night shift hears what the day shift did.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): teams spread across clients and offices, who see each other's wins only when someone writes them down.
-- [Software technology](https://fullypowered.ai/industries/software-technology/): fast-growing teams where the same question gets asked in five channels.
-- [Nonprofits](https://fullypowered.ai/industries/nonprofits/): staff and regular volunteers who need the same dates and answers.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): the point where the company has outgrown everyone hearing everything at lunch.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/): a newsletter that has run for years and deserves a steadier shape.
+- [Executive and office support](https://fullypowered.ai/functions/executive-and-office-support/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-staff-newsletter-and-faq-roundup&from=gh-staff-newsletter-and-faq-roundup): the office manager or chief of staff who keeps everyone informed without writing every word.
+- [People and HR](https://fullypowered.ai/functions/people-and-hr/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-staff-newsletter-and-faq-roundup&from=gh-staff-newsletter-and-faq-roundup): the questions about leave, parking and safety that arrive one by one, answered once for everyone.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-staff-newsletter-and-faq-roundup&from=gh-staff-newsletter-and-faq-roundup): shifts that rarely meet, where a monthly issue is how the night shift hears what the day shift did.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-staff-newsletter-and-faq-roundup&from=gh-staff-newsletter-and-faq-roundup): teams spread across clients and offices, who see each other's wins only when someone writes them down.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-staff-newsletter-and-faq-roundup&from=gh-staff-newsletter-and-faq-roundup): fast-growing teams where the same question gets asked in five channels.
+- [Nonprofits](https://fullypowered.ai/industries/nonprofits/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-staff-newsletter-and-faq-roundup&from=gh-staff-newsletter-and-faq-roundup): staff and regular volunteers who need the same dates and answers.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-staff-newsletter-and-faq-roundup&from=gh-staff-newsletter-and-faq-roundup): the point where the company has outgrown everyone hearing everything at lunch.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-staff-newsletter-and-faq-roundup&from=gh-staff-newsletter-and-faq-roundup): a newsletter that has run for years and deserves a steadier shape.
 
 ## What has to change for your company
 
@@ -56,7 +63,7 @@ Choose who approves each issue and who sends it. Set up the form or shared sheet
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026 in two runs; the instructions and the example were revised after the first, and the record of the second is published with it and lists the points the template still leaves open. Neither run was blind: each was made by a session that had seen the example's answer. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past months whose issues you already sent, plus hard cases written in advance: a people-news item with no agreement recorded, an item about someone's health, a change nobody has announced, a question no document answers, an answer from an old document. The approver checks every item and every quote against its source before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three past months whose issues you already sent, plus hard cases written in advance: a people-news item with no agreement recorded, an item about someone's health, a change nobody has announced, a question no document answers, an answer from an old document. The approver checks every item and every quote against its source before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-staff-newsletter-and-faq-roundup&from=gh-staff-newsletter-and-faq-roundup) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-staff-newsletter-and-faq-roundup&from=gh-staff-newsletter-and-faq-roundup) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -83,10 +90,10 @@ Testing in your environment means running it on two or three past months whose i
 
 ## Related workflow templates
 
-- [Internal change announcement](https://fullypowered.ai/workflows/internal-change-announcement/)
-- [Policy answers from the handbook](https://fullypowered.ai/workflows/policy-answers-from-the-handbook/)
+- [Internal change announcement](https://fullypowered.ai/workflows/internal-change-announcement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-staff-newsletter-and-faq-roundup&from=gh-staff-newsletter-and-faq-roundup)
+- [Policy answers from the handbook](https://fullypowered.ai/workflows/policy-answers-from-the-handbook/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-staff-newsletter-and-faq-roundup&from=gh-staff-newsletter-and-faq-roundup)
 - [Meeting agenda, notes and follow-ups](../meeting-agenda-notes-and-follow-ups/)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-staff-newsletter-and-faq-roundup&from=gh-staff-newsletter-and-faq-roundup).

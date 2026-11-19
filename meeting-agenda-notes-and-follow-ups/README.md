@@ -1,10 +1,17 @@
 # Meeting agenda, notes and follow-ups
 
-Whoever runs the meeting walks in with an agenda where every topic has an outcome and a time, and walks out with a one-page record: what was decided, who owns each action and by when, and what is still open. Nothing reaches anyone until that person has read it and sends it.
+Walk in with an agenda where every topic has an outcome and walk out with a one-page record of decisions and owners. You read it and send it.
 
-*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/meeting-agenda-notes-and-follow-ups/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Meeting agenda, notes and follow-ups on our website](https://fullypowered.ai/workflows/meeting-agenda-notes-and-follow-ups/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-meeting-agenda-notes-and-follow-ups&from=gh-meeting-agenda-notes-and-follow-ups) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/meeting-agenda-notes-and-follow-ups/?from=gh-meeting-agenda-notes-and-follow-ups)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/meeting-agenda-notes-and-follow-ups/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-meeting-agenda-notes-and-follow-ups&from=gh-meeting-agenda-notes-and-follow-ups)*
 
 ## The outcome
 
@@ -39,13 +46,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Executive and office support](https://fullypowered.ai/functions/executive-and-office-support/): the leadership meeting, the staff meeting and every meeting an assistant prepares for someone else.
-- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/): the weekly project meeting, where an action without an owner becomes a late milestone.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): internal team and practice meetings, where senior time is the most expensive thing in the room.
-- [Construction](https://fullypowered.ai/industries/construction/): the weekly operations or site coordination meeting, with trades, dates and equipment that depend on each other.
-- [Software technology](https://fullypowered.ai/industries/software-technology/): planning and review meetings that end with a clear list of who does what.
-- [Nonprofits](https://fullypowered.ai/industries/nonprofits/): staff and committee meetings where volunteers need their actions in writing.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/): standing meetings that have run for years and deserve a sharper shape.
+- [Executive and office support](https://fullypowered.ai/functions/executive-and-office-support/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-meeting-agenda-notes-and-follow-ups&from=gh-meeting-agenda-notes-and-follow-ups): the leadership meeting, the staff meeting and every meeting an assistant prepares for someone else.
+- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-meeting-agenda-notes-and-follow-ups&from=gh-meeting-agenda-notes-and-follow-ups): the weekly project meeting, where an action without an owner becomes a late milestone.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-meeting-agenda-notes-and-follow-ups&from=gh-meeting-agenda-notes-and-follow-ups): internal team and practice meetings, where senior time is the most expensive thing in the room.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-meeting-agenda-notes-and-follow-ups&from=gh-meeting-agenda-notes-and-follow-ups): the weekly operations or site coordination meeting, with trades, dates and equipment that depend on each other.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-meeting-agenda-notes-and-follow-ups&from=gh-meeting-agenda-notes-and-follow-ups): planning and review meetings that end with a clear list of who does what.
+- [Nonprofits](https://fullypowered.ai/industries/nonprofits/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-meeting-agenda-notes-and-follow-ups&from=gh-meeting-agenda-notes-and-follow-ups): staff and committee meetings where volunteers need their actions in writing.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-meeting-agenda-notes-and-follow-ups&from=gh-meeting-agenda-notes-and-follow-ups): standing meetings that have run for years and deserve a sharper shape.
 
 ## What has to change for your company
 
@@ -55,7 +62,7 @@ Decide which meetings use it first; a weekly meeting with the same people is the
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026, in two runs; the instructions were corrected between them, and the record of the second run is published with the template. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on the notes of three or four past meetings whose outcomes you already know, plus hard cases written in advance: an action nobody took, a topic that was talked about and not decided, two note-takers who disagree, an agenda that does not fit its time. The person who ran each meeting checks every decision and owner against what happened. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on the notes of three or four past meetings whose outcomes you already know, plus hard cases written in advance: an action nobody took, a topic that was talked about and not decided, two note-takers who disagree, an agenda that does not fit its time. The person who ran each meeting checks every decision and owner against what happened. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-meeting-agenda-notes-and-follow-ups&from=gh-meeting-agenda-notes-and-follow-ups) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-meeting-agenda-notes-and-follow-ups&from=gh-meeting-agenda-notes-and-follow-ups) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -82,10 +89,10 @@ Testing in your environment means running it on the notes of three or four past 
 
 ## Related workflow templates
 
-- [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/)
-- [Weekly receivables summary](https://fullypowered.ai/workflows/weekly-receivables-summary/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
+- [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-meeting-agenda-notes-and-follow-ups&from=gh-meeting-agenda-notes-and-follow-ups)
+- [Weekly receivables summary](https://fullypowered.ai/workflows/weekly-receivables-summary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-meeting-agenda-notes-and-follow-ups&from=gh-meeting-agenda-notes-and-follow-ups)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-meeting-agenda-notes-and-follow-ups&from=gh-meeting-agenda-notes-and-follow-ups)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-meeting-agenda-notes-and-follow-ups&from=gh-meeting-agenda-notes-and-follow-ups).

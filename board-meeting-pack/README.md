@@ -1,10 +1,17 @@
 # Board meeting pack
 
-Before each board meeting, the CEO gets a pre-read built on the one decision the board is asked to make, with every figure from the company's own reports, an agenda kept mostly for discussion and the questions directors are likely to ask. Afterwards, a record of what was decided. The CEO sends it all.
+Get a board pre-read built on one decision, with every figure from your own reports, likely director questions and a draft record. The CEO sends it.
 
-*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/board-meeting-pack/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Board meeting pack on our website](https://fullypowered.ai/workflows/board-meeting-pack/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-board-meeting-pack&from=gh-office-support-board-meeting-pack) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/board-meeting-pack/?from=gh-office-support-board-meeting-pack)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/board-meeting-pack/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-board-meeting-pack&from=gh-office-support-board-meeting-pack)*
 
 ## The outcome
 
@@ -44,15 +51,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Executive and office support](https://fullypowered.ai/functions/executive-and-office-support/): the chief of staff or executive assistant who assembles the board papers every quarter.
-- [Leadership](https://fullypowered.ai/functions/leadership/): the CEO who has to bring the board one clear decision and leave with it made.
-- [Software technology](https://fullypowered.ai/industries/software-technology/): venture-backed companies with investor directors who meet every quarter.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): firms with outside directors or an advisory board that approves investment.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/): owner-led and investor-backed companies bringing capital decisions to a board.
-- [Nonprofits](https://fullypowered.ai/industries/nonprofits/): the executive director preparing papers for the board of trustees.
-- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/): a first board, where good habits are set from the start.
-- [Private equity & portfolios](https://fullypowered.ai/situations/private-equity-and-portfolios/): a portfolio company reporting to its owners on a fixed rhythm.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): when the board's decisions get bigger and the papers have to keep up.
+- [Executive and office support](https://fullypowered.ai/functions/executive-and-office-support/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-board-meeting-pack&from=gh-office-support-board-meeting-pack): the chief of staff or executive assistant who assembles the board papers every quarter.
+- [Leadership](https://fullypowered.ai/functions/leadership/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-board-meeting-pack&from=gh-office-support-board-meeting-pack): the CEO who has to bring the board one clear decision and leave with it made.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-board-meeting-pack&from=gh-office-support-board-meeting-pack): venture-backed companies with investor directors who meet every quarter.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-board-meeting-pack&from=gh-office-support-board-meeting-pack): firms with outside directors or an advisory board that approves investment.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-board-meeting-pack&from=gh-office-support-board-meeting-pack): owner-led and investor-backed companies bringing capital decisions to a board.
+- [Nonprofits](https://fullypowered.ai/industries/nonprofits/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-board-meeting-pack&from=gh-office-support-board-meeting-pack): the executive director preparing papers for the board of trustees.
+- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-board-meeting-pack&from=gh-office-support-board-meeting-pack): a first board, where good habits are set from the start.
+- [Private equity & portfolios](https://fullypowered.ai/situations/private-equity-and-portfolios/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-board-meeting-pack&from=gh-office-support-board-meeting-pack): a portfolio company reporting to its owners on a fixed rhythm.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-board-meeting-pack&from=gh-office-support-board-meeting-pack): when the board's decisions get bigger and the papers have to keep up.
 
 ## What has to change for your company
 
@@ -62,7 +69,7 @@ Decide who assembles the pack, who owns the figures and who keeps the formal min
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record of that run is published with it. That run produced the full pack and decision record; it did not reach an export whose column headings do not match, a brief with no decision or two decisions, a request to drop a figure or to send the pack, an agenda over the presentation limit, or notes that describe the executive session. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on the papers and notes of two or three past board meetings whose outcomes you already know, plus hard cases written in advance: two reports that disagree, a large variance with no cause, a message the figures contradict, an agenda that is mostly presentation, and notes with an action nobody took. The finance lead checks every figure against its report and the chair checks the decision record against what the board decided. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on the papers and notes of two or three past board meetings whose outcomes you already know, plus hard cases written in advance: two reports that disagree, a large variance with no cause, a message the figures contradict, an agenda that is mostly presentation, and notes with an action nobody took. The finance lead checks every figure against its report and the chair checks the decision record against what the board decided. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-board-meeting-pack&from=gh-office-support-board-meeting-pack) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-board-meeting-pack&from=gh-office-support-board-meeting-pack) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -90,9 +97,9 @@ Testing in your environment means running it on the papers and notes of two or t
 ## Related workflow templates
 
 - [Meeting agenda, notes and follow-ups](../meeting-agenda-notes-and-follow-ups/)
-- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/)
-- [Thirteen-week cash flow forecast](https://fullypowered.ai/workflows/thirteen-week-cash-flow-forecast/)
+- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-board-meeting-pack&from=gh-office-support-board-meeting-pack)
+- [Thirteen-week cash flow forecast](https://fullypowered.ai/workflows/thirteen-week-cash-flow-forecast/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-board-meeting-pack&from=gh-office-support-board-meeting-pack)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-board-meeting-pack&from=gh-office-support-board-meeting-pack).

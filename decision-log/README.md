@@ -1,10 +1,17 @@
 # Decision log
 
-Your chief of staff keeps one register of what the leadership actually approved, across every meeting and message: each decision with who approved it, each action with one owner and a date, what is overdue, and a flag wherever a new decision clashes with an earlier one or revives a rejected idea.
+A register of what leadership approved, with one owner and date per action and flags for clashes. A person approves every entry.
 
-*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/decision-log/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Decision log on our website](https://fullypowered.ai/workflows/decision-log/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-decision-log&from=gh-office-support-decision-log) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/decision-log/?from=gh-office-support-decision-log)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/decision-log/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-decision-log&from=gh-office-support-decision-log)*
 
 ## The outcome
 
@@ -41,14 +48,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Executive and office support](https://fullypowered.ai/functions/executive-and-office-support/): the chief of staff or executive assistant who is asked, every week, "did we decide that?"
-- [Leadership](https://fullypowered.ai/functions/leadership/): a leadership team that approves decisions in meetings, emails and papers and wants one place that says what stands.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): a partners' or management group whose decisions on pricing, terms and staffing need to hold from one month to the next.
-- [Software technology](https://fullypowered.ai/industries/software-technology/): leadership teams that move fast and revisit the same choices more often than they mean to.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/): decisions on shifts, capacity, pricing and suppliers that run for months and touch each other.
-- [Nonprofits](https://fullypowered.ai/industries/nonprofits/): a leadership team and its committees, where a decision taken in one room has to be known in another.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): the point where decisions outnumber the people who remember them.
-- [Private equity & portfolios](https://fullypowered.ai/situations/private-equity-and-portfolios/): a portfolio company whose owners expect a clear account of what the leadership approved and what is being done about it.
+- [Executive and office support](https://fullypowered.ai/functions/executive-and-office-support/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-decision-log&from=gh-office-support-decision-log): the chief of staff or executive assistant who is asked, every week, "did we decide that?"
+- [Leadership](https://fullypowered.ai/functions/leadership/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-decision-log&from=gh-office-support-decision-log): a leadership team that approves decisions in meetings, emails and papers and wants one place that says what stands.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-decision-log&from=gh-office-support-decision-log): a partners' or management group whose decisions on pricing, terms and staffing need to hold from one month to the next.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-decision-log&from=gh-office-support-decision-log): leadership teams that move fast and revisit the same choices more often than they mean to.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-decision-log&from=gh-office-support-decision-log): decisions on shifts, capacity, pricing and suppliers that run for months and touch each other.
+- [Nonprofits](https://fullypowered.ai/industries/nonprofits/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-decision-log&from=gh-office-support-decision-log): a leadership team and its committees, where a decision taken in one room has to be known in another.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-decision-log&from=gh-office-support-decision-log): the point where decisions outnumber the people who remember them.
+- [Private equity & portfolios](https://fullypowered.ai/situations/private-equity-and-portfolios/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-decision-log&from=gh-office-support-decision-log): a portfolio company whose owners expect a clear account of what the leadership approved and what is being done about it.
 
 ## What has to change for your company
 
@@ -58,7 +65,7 @@ Name who keeps the register and who may approve which kinds of decision, with an
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record of that run is published with it. The run produced every part of the update, and the path that keeps an item about one person's pay out of the register was reached; none of the stop conditions was, and the eleven acceptance tests in the template were not run. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three months of past leadership material whose decisions you already know, plus hard cases written in advance: an agreement with no approver named, a new decision that reverses an earlier one, an idea the leadership turned down coming back in different words, the same work given to two people, a register export with different column names. The register keeper checks every entry against its source before anything is entered. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three months of past leadership material whose decisions you already know, plus hard cases written in advance: an agreement with no approver named, a new decision that reverses an earlier one, an idea the leadership turned down coming back in different words, the same work given to two people, a register export with different column names. The register keeper checks every entry against its source before anything is entered. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-decision-log&from=gh-office-support-decision-log) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-decision-log&from=gh-office-support-decision-log) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -86,9 +93,9 @@ Testing in your environment means running it on two or three months of past lead
 ## Related workflow templates
 
 - [Meeting agenda, notes and follow-ups](../meeting-agenda-notes-and-follow-ups/)
-- [Internal change announcement](https://fullypowered.ai/workflows/internal-change-announcement/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
+- [Internal change announcement](https://fullypowered.ai/workflows/internal-change-announcement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-decision-log&from=gh-office-support-decision-log)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-decision-log&from=gh-office-support-decision-log)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-decision-log&from=gh-office-support-decision-log).
