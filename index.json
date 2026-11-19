@@ -20,6 +20,14 @@
       "directory": "https://fullypowered.ai/workflows/business-trip-plan/"
     },
     {
+      "id": "channel-decisions-digest",
+      "name": "Channel decisions and open questions digest",
+      "version": "0.1.0",
+      "summary": "The person who owns a busy team channel gets a dated digest of the week's messages: decisions and who made them, questions still open and who was asked, promises with and without an owner or a date, and what carried over. Every line cites its message. Nothing is posted.",
+      "path": "channel-decisions-digest/",
+      "directory": "https://fullypowered.ai/workflows/channel-decisions-digest/"
+    },
+    {
       "id": "decision-log",
       "name": "Decision log",
       "version": "0.1.0",

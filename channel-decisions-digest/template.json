@@ -1,0 +1,48 @@
+{
+  "id": "channel-decisions-digest",
+  "name": "Channel decisions and open questions digest",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "The person who owns a busy team channel gets a dated digest of the week's messages: decisions and who made them, questions still open and who was asked, promises with and without an owner or a date, and what carried over. Every line cites its message. Nothing is posted.",
+  "directory": "https://fullypowered.ai/workflows/channel-decisions-digest/",
+  "primary_function": "functions/executive-and-office-support",
+  "functions": [
+    "functions/executive-and-office-support",
+    "functions/project-and-delivery"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/professional-services",
+    "industries/marketing-and-advertising",
+    "industries/nonprofits"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/startups-and-new-ventures"
+  ],
+  "related": [
+    "decision-log",
+    "meeting-agenda-notes-and-follow-ups",
+    "project-handover-readiness-check"
+  ],
+  "evidence": {
+    "written_by": "FullyPowered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-19",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-19",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "FullyPowered AI's own brief for a weekly digest of one team channel's decisions, open questions and promises, written from a chat export the channel's owner supplies."
+    }
+  ]
+}
