@@ -5,7 +5,7 @@ FullyPowered Workflow Templates for executive and office support teams turn the 
 We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for executive and office support teams](https://fullypowered.ai/functions/executive-and-office-support/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-readme&from=gh-office-support-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-readme&from=gh-office-support-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for executive and office support teams](https://fullypowered.ai/functions/executive-and-office-support/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-readme&from=gh-office-support-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-readme&from=gh-office-support-readme). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Who this is for**
 
@@ -26,7 +26,16 @@ We are FullyPowered AI. We build AI workflows for companies, and these are the t
 1. **Turn your meeting notes into a record.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into it and replace the square brackets with your own notes from a meeting you ran. You can use rough notes. Nothing is sent to anyone, and you read the result before it goes anywhere.
 
    ```text
-   I run a meeting and need a record of it. Below are my notes, the agenda I used and last time's open actions. Today's date is [today]. Write one page with these parts: Decisions, Actions, Parked, Open questions, Open from last time, For the record. Enter a decision only where the notes show something was settled. Give every action one owner and one date. Where the notes name no owner or no date, write OWNER NEEDED or DATE NEEDED. Never choose an owner or a date yourself. List every gap as a question first, then write a follow-up message for the attendees, marked NOT READY TO SEND while any gap is open. Leave out anything about one person's pay, health or conduct. Send nothing. I will decide and send.
+   I run a meeting and need a record of it. Below are my notes, the agenda
+   I used and last time's open actions. Today's date is [today]. Write one
+   page with these parts: Decisions, Actions, Parked, Open questions, Open
+   from last time, For the record. Enter a decision only where the notes
+   show something was settled. Give every action one owner and one date.
+   Where the notes name no owner or no date, write OWNER NEEDED or DATE
+   NEEDED. Never choose an owner or a date yourself. List every gap as a
+   question first, then write a follow-up message for the attendees, marked
+   NOT READY TO SEND while any gap is open. Leave out anything about one
+   person's pay, health or conduct. Send nothing. I will decide and send.
 
    Agenda: [paste agenda]
    Open from last time: [paste actions]
