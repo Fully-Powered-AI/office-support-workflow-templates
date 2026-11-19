@@ -1,6 +1,6 @@
-# Channel decisions and open questions digest: an invented example
+# Channel decisions and open questions digest: an example
 
-*Illustrative example with invented data.* Quillbarrow Events is an invented 40-person company that produces corporate events. Its client, Client B, is invented too, as are the people, suppliers and messages below. Tamsin, the project lead, owns the team channel for Client B's spring gala. On Monday 16 November 2026 she runs the workflow template for the week of Monday 9 to Friday 13 November. She supplies the channel export from her team chat tool, the people list, her settings and the open lines of last week's digest. First come her inputs, in full, then what came back.
+*Illustrative example with sample data.* Quillbarrow Events is an illustrative 40-person company that produces corporate events. Its client, Client B, is illustrative too, as are the people, suppliers and messages below. Tamsin, the project lead, owns the team channel for Client B's spring gala. On Monday 16 November 2026 she runs the workflow template for the week of Monday 9 to Friday 13 November. She supplies the channel export from her team chat tool, the people list, her settings and the open lines of last week's digest. First come her inputs, in full, then what came back.
 
 ## The inputs
 

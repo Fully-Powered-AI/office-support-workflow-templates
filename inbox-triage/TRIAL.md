@@ -1,10 +1,10 @@
-# Inbox triage: a trial on the invented example
+# Inbox triage: a trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID `claude-sonnet-5-5`)
 - **Date:** 2026-11-09
 
-The inputs for this run are the invented example's own: the settings, routing list, promises, two sample replies and the export of 17 messages in `public/example.md`, section "The inputs". No client data was used. The run followed the fenced instruction block and the output format in the workflow template, and the example's published output was read only afterwards. The run was done by a model that had not written the template.
+The inputs for this run are the example's own: the settings, routing list, promises, two sample replies and the export of 17 messages in `public/example.md`, section "The inputs". No client data was used. The run followed the fenced instruction block and the output format in the workflow template, and the example's published output was read only afterwards. The run was done by a model that had not written the template.
 
 ## What came out
 
@@ -133,7 +133,7 @@ The run made no changes to any mailbox, since none was connected. The reviewer c
 
 ## Changed after this run
 
-- The example's output was corrected on the six points listed above. Its inputs are unchanged except that two invented senders in the no-reply rows were renamed (a software receipt and a sales message); this run used the earlier names, which appear nowhere in its output.
+- The example's output was corrected on the six points listed above. Its inputs are unchanged except that two illustrative senders in the no-reply rows were renamed (a software receipt and a sales message); this run used the earlier names, which appear nowhere in its output.
 - The template's procedure and instruction block were clarified on five points: when two Reply today items would cost about as much, a deadline that ends today comes before a sender already waiting; a colleague asking the owner for approval is the owner's to answer, never "already covered" and never routed back to that colleague; a message that only looks private is listed as private and asked about in the questions; a draft may open with the owner's decision in square brackets; and the batch limit has a stated default of 150 threads. Each clarification states what this run already did. The template was not run again after them.
 - 10 November 2026: the example's buzzer item (T2) no longer ends with a sentence on why it comes after T1, because the output format has no place for one; the comparison above, which mentions that sentence, describes the example before this edit. Two passages of the template's instruction block were rewrapped with no change of wording. This run's output is unchanged.
 

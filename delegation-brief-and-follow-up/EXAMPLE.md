@@ -1,6 +1,6 @@
-# Delegation brief and follow-up: an invented example
+# Delegation brief and follow-up: an example
 
-*Illustrative example with invented data.* Tarnwick Advisory is an invented 30-person consulting firm. Its people, suppliers, tasks and dates are invented too. Marta, the managing director, hands work to people across the firm; Theo, her executive assistant, keeps her delegation list. The example has two parts: a brief written on Monday 9 November 2026, and the weekly list run on Friday 13 November 2026. Each part gives the inputs in full, then what came back.
+*Illustrative example with sample data.* Tarnwick Advisory is an illustrative 30-person consulting firm. Its people, suppliers, tasks and dates are illustrative too. Marta, the managing director, hands work to people across the firm; Theo, her executive assistant, keeps her delegation list. The example has two parts: a brief written on Monday 9 November 2026, and the weekly list run on Friday 13 November 2026. Each part gives the inputs in full, then what came back.
 
 ## Part 1: a brief
 

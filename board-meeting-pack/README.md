@@ -8,7 +8,7 @@ Get a board pre-read built on one decision, with every figure from your own repo
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/board-meeting-pack/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-board-meeting-pack&from=gh-office-support-board-meeting-pack)*
@@ -47,7 +47,7 @@ No accounting system, board portal or mailbox is connected. Everything is pasted
 
 Every gap comes first, as a question for the CEO or the finance lead.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -67,7 +67,7 @@ Decide who assembles the pack, who owns the figures and who keeps the formal min
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record of that run is published with it. That run produced the full pack and decision record; it did not reach an export whose column headings do not match, a brief with no decision or two decisions, a request to drop a figure or to send the pack, an agenda over the presentation limit, or notes that describe the executive session. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its example in Claude on 10 November 2026, and the record of that run is published with it. That run produced the full pack and decision record; it did not reach an export whose column headings do not match, a brief with no decision or two decisions, a request to drop a figure or to send the pack, an agenda over the presentation limit, or notes that describe the executive session. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on the papers and notes of two or three past board meetings whose outcomes you already know, plus hard cases written in advance: two reports that disagree, a large variance with no cause, a message the figures contradict, an agenda that is mostly presentation, and notes with an action nobody took. The finance lead checks every figure against its report and the chair checks the decision record against what the board decided. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-board-meeting-pack&from=gh-office-support-board-meeting-pack) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-board-meeting-pack&from=gh-office-support-board-meeting-pack) describes the record we keep.
 
@@ -75,13 +75,13 @@ Testing in your environment means running it on the papers and notes of two or t
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

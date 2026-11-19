@@ -1,10 +1,10 @@
-# Executive week-ahead calendar review: tried once on its invented example
+# Executive week-ahead calendar review: tried once on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (`claude-sonnet-5-5`)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in [example.md](example.md) (Company A, Morgan and Sam). No client data was used. The run was a single attempt by a model that did not write the template. It followed the instruction block and the output format in `member/template.md`, working from the example's inputs only, and read the example's output after producing its own.
+The inputs are the example in [example.md](example.md) (Company A, Morgan and Sam). No client data was used. The run was a single attempt by a model that did not write the template. It followed the instruction block and the output format in `member/template.md`, working from the example's inputs only, and read the example's output after producing its own.
 
 ## Inputs used
 
@@ -98,7 +98,7 @@ The run reached the same answers as the example on every one of these, but the t
 
 - The arithmetic is long, and a model can slip on it. The run checked every figure twice against the export. The template asks for this in its last instruction line, and the "How the figures were reached" part of the example is what made that check practical.
 - The numbering of decisions depends on ordering rules that have four tie-breakers. They were followable, but a reader doing it by hand would find them easy to misapply.
-- This was one run, in one product, on one invented week. It shows the template can be followed to the published answer. It does not show how a model behaves on a real export with messier titles, other time zones or more than one all-day event.
+- This was one run, in one product, on one illustrative week. It shows the template can be followed to the published answer. It does not show how a model behaves on a real export with messier titles, other time zones or more than one all-day event.
 
 ## Changed after the run
 

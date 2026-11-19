@@ -8,7 +8,7 @@ A clear brief for every task a manager hands over and a weekly list of what is o
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/delegation-brief-and-follow-up/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-delegation-brief-and-follow-up&from=gh-delegation-brief-and-follow-up)*
@@ -44,7 +44,7 @@ No mailbox, calendar, chat tool or task tracker is connected. Everything is past
 
 A good brief can be read in a minute and acted on without a follow-up question. A good weekly list tells the manager in two minutes what needs them.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -63,7 +63,7 @@ Set your working days and office closures. Decide how soon a person should confi
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the run matched the example in substance, and the record of that run is published with it and lists the open points it found. The template was then clarified on those points after an independent review; those edits have not been run again, and the record lists them. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its example in Claude on 10 November 2026; the run matched the example in substance, and the record of that run is published with it and lists the open points it found. The template was then clarified on those points after an independent review; those edits have not been run again, and the record lists them. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a few weeks of past handovers you remember well, plus hard cases written in advance: a note that names two people, a date with no time, an internal name nobody explained, a remark about the person in the note, a task six working days late, a request for more time, a list export with different column names. The manager reads every brief and note before anything goes out. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-delegation-brief-and-follow-up&from=gh-delegation-brief-and-follow-up) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-delegation-brief-and-follow-up&from=gh-delegation-brief-and-follow-up) describes the record we keep.
 
@@ -71,13 +71,13 @@ Testing in your environment means running it on a few weeks of past handovers yo
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

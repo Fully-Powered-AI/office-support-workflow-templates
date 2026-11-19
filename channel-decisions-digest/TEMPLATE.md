@@ -257,4 +257,4 @@ owner corrects a line, update it and mark it "set by [name] on [date]".
 
 ## Version notes
 
-- 0.1.0, 19 November 2026. Written by FullyPowered AI as original work, from its own brief, with no third-party source. Editorially reviewed. Tried once on its invented example in Claude on 19 November 2026 (the record is published with it). The template and the example were changed after that run, as the record says, and it has not been run again. Not yet tested in a client environment, and not yet tested as a packaged version in an AI assistant. The acceptance tests have not been run.
+- 0.1.0, 19 November 2026. Written by FullyPowered AI as original work, from its own brief, with no third-party source. Editorially reviewed. Tried once on its example in Claude on 19 November 2026 (the record is published with it). The template and the example were changed after that run, as the record says, and it has not been run again. Not yet tested in a client environment, and not yet tested as a packaged version in an AI assistant. The acceptance tests have not been run.

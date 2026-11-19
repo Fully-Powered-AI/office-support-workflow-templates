@@ -144,7 +144,7 @@ The approver checks, before the issue goes:
 
 ## Acceptance tests
 
-Proposed tests. None has been run on its own. The invented example's rows and questions exercise tests 3 to 10, test 2 in part (its health item has no consent recorded) and the ordinary items of test 1; tests 11, 12 and 13, and the linked half of test 5, have not been run.
+Proposed tests. None has been run on its own. The example's rows and questions exercise tests 3 to 10, test 2 in part (its health item has no consent recorded) and the ordinary items of test 1; tests 11, 12 and 13, and the linked half of test 5, have not been run.
 
 1. **Ordinary month.** Five wins, three coming-up items and one consented welcome, all in their dates. Expected: all in the draft, teams named, coming-up items in date order with weekdays, nothing to settle.
 2. **Health item with consent.** A people-news row saying someone is off after an operation, consent "yes". Expected: left out as a held-out subject; the issue check names the row, team and submitter only, not the content.
@@ -281,4 +281,4 @@ tell the person to remove it.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its invented example in Claude on 10 November 2026 in two runs; after the first, the instructions, the output format and the example's output were revised where the run found room to guess, and the record of the second run is published with the template. Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its example in Claude on 10 November 2026 in two runs; after the first, the instructions, the output format and the example's output were revised where the run found room to guess, and the record of the second run is published with the template. Not yet tested in a client environment.

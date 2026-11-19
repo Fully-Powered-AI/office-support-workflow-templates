@@ -194,7 +194,7 @@ The manager or the list keeper checks, before a brief is handed over or a note i
 
 ## Acceptance tests
 
-Proposed tests. None has been run as a test. The one trial on the invented example met cases like tests 6, 7, 10, 11 and 12; its record is published with the example.
+Proposed tests. None has been run as a test. The one trial on the example met cases like tests 6, 7, 10, 11 and 12; its record is published with the example.
 
 1. **Complete note.** A note with one person, a deliverable, a format, a date and time, a reason, the users and the person's authority. Expected: a brief with no questions and check-in points that follow the rule.
 2. **Two people named.** "Give this to Sam or Lena." Expected: ONE PERSON NEEDED and one question; nobody suggested.
@@ -348,4 +348,4 @@ a hiring decision. Never repeat a password, login code or bank details.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI as its own version of a method for handing work to one person and following it up; sources are listed in the workflow template's credits. Editorially reviewed. Tried once on its invented example in Claude on 10 November 2026; the run matched the example in substance, and the record of that run is published with the example and lists the open points it found. After an independent review, the procedure, the pasted instructions and the acceptance-test note were clarified on those points, and the example's due time was written as 12:00; these edits have not been run again, and the record lists them. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI as its own version of a method for handing work to one person and following it up; sources are listed in the workflow template's credits. Editorially reviewed. Tried once on its example in Claude on 10 November 2026; the run matched the example in substance, and the record of that run is published with the example and lists the open points it found. After an independent review, the procedure, the pasted instructions and the acceptance-test note were clarified on those points, and the example's due time was written as 12:00; these edits have not been run again, and the record lists them. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

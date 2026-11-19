@@ -284,4 +284,4 @@ Check every figure against the export before you return the brief.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI from its own published map of executive and office support work. Editorially reviewed. Tried once on its invented example in Claude on 10 November 2026, by a model that did not write it, with the record published; not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI from its own published map of executive and office support work. Editorially reviewed. Tried once on its example in Claude on 10 November 2026, by a model that did not write it, with the record published; not yet tested in a client environment.

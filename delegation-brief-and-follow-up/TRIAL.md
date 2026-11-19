@@ -1,4 +1,4 @@
-# Delegation brief and follow-up: one trial on the invented example
+# Delegation brief and follow-up: one trial on the example
 
 - **Product:** Claude, run in Claude Code
 
@@ -6,7 +6,7 @@ Model: Sonnet 5.5 (model ID claude-sonnet-5-5), run as a subagent of a workflow 
 
 Date: 2026-11-10
 
-The inputs were the invented example in `public/example.md` (Tarnwick Advisory, Marta, Theo, Jonas and the others). No client data was used. The two parts of the example were run in turn: a brief written on the example's Monday 9 November 2026, and the weekly list for its Friday 13 November 2026. The run date above is the real date of the trial; the dates inside the output are the example's invented dates.
+The inputs were the example in `public/example.md` (Tarnwick Advisory, Marta, Theo, Jonas and the others). No client data was used. The two parts of the example were run in turn: a brief written on the example's Monday 9 November 2026, and the weekly list for its Friday 13 November 2026. The run date above is the real date of the trial; the dates inside the output are the example's sample dates.
 
 ## Inputs used
 
@@ -177,7 +177,7 @@ Working, briefly: D-010 is 6 working days late (6, 9, 10, 11, 12 and 13 November
   8. D-010 had a check-in date (4 November) with no update behind it and no later update. The template does not say to raise that, so it is not mentioned, though the escalation question covers the task.
   9. "The planning-day pack" is an in-house name the note does not explain. The template's rule flagged only PLX; this run judged "pack" ordinary English. Another reader could flag it.
 - The output follows the format closely, and the template is long; a model that skimmed it could miss the rule that a check-in date inside the look-ahead gets a note even for a task grouped as On track.
-- This was one run, by one model, on an invented example. It does not show how the template works on a real note or list, or in another product.
+- This was one run, by one model, on an example. It does not show how the template works on a real note or list, or in another product.
 
 ## Edits made after this run
 

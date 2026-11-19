@@ -8,7 +8,7 @@ Start the day knowing what needs a reply, what can wait and what belongs to some
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/inbox-triage/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-inbox-triage&from=gh-office-support-inbox-triage)*
@@ -48,7 +48,7 @@ One triage page in a fixed order:
 
 A draft never puts a figure, a deadline or an undertaking in the owner's mouth. Anything the owner has not yet said, and every decision that is theirs, is left as a gap in square brackets.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -67,7 +67,7 @@ Write your routing list: which messages go to whom, and who covers when they are
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 9 November 2026, in one run by a model that had not written it, and the record of that run is published with it. Afterwards the example's drafts were corrected where they went beyond the messages, and the template was clarified on the points the run had to settle for itself, such as which of two urgent replies comes first. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its example in Claude on 9 November 2026, in one run by a model that had not written it, and the record of that run is published with it. Afterwards the example's drafts were corrected where they went beyond the messages, and the template was clarified on the points the run had to settle for itself, such as which of two urgent replies comes first. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on two or three past mornings whose mail the owner remembers, plus hard cases written in advance: a supplier's bank details changing from a lookalike address, a customer writing for the second time, an approval due today, a promise with no message about it, an export whose columns are named differently. The owner checks every group and every draft before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-inbox-triage&from=gh-office-support-inbox-triage) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-inbox-triage&from=gh-office-support-inbox-triage) describes the record we keep.
 
@@ -75,13 +75,13 @@ Testing in your environment means running it on two or three past mornings whose
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 9 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 9 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

@@ -4,7 +4,7 @@
 
 Model: Claude Sonnet 5.5 (model ID claude-sonnet-5-5). Date: 2026-11-19.
 
-The inputs are the invented example in [example.md](example.md): the settings, the channel export of 23 messages, the people list and the open lines of last week's digest. No client data was used. The run was made by a model that did not write the template. It read the template and only the inputs of the example, followed the instruction block and the output format, and produced the digest below. Only then did it read the example's output and the reviewer checklist and compare.
+The inputs are the example in [example.md](example.md): the settings, the channel export of 23 messages, the people list and the open lines of last week's digest. No client data was used. The run was made by a model that did not write the template. It read the template and only the inputs of the example, followed the instruction block and the output format, and produced the digest below. Only then did it read the example's output and the reviewer checklist and compare.
 
 ## What came out
 

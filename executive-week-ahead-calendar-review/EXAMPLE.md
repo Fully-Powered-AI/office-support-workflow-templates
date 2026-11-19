@@ -1,6 +1,6 @@
-# Executive week-ahead calendar review: an invented example
+# Executive week-ahead calendar review: an example
 
-*Illustrative example with invented data.* Company A is an invented property management company with about 60 staff. Every person, client, supplier, place and meeting below is invented. Sam is the executive assistant to Morgan, the managing director. On Thursday 12 November 2026 Sam exported Morgan's calendar for the week of 16 November, typed up the two priorities Morgan named that morning, and ran the review. First come the inputs Sam supplied, in full, then the brief that came back.
+*Illustrative example with sample data.* Company A is an illustrative property management company with about 60 staff. Every person, client, supplier, place and meeting below is illustrative. Sam is the executive assistant to Morgan, the managing director. On Thursday 12 November 2026 Sam exported Morgan's calendar for the week of 16 November, typed up the two priorities Morgan named that morning, and ran the review. First come the inputs Sam supplied, in full, then the brief that came back.
 
 ## The inputs
 

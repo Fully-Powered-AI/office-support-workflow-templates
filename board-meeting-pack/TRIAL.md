@@ -1,10 +1,10 @@
-# Board meeting pack: one trial on the invented example
+# Board meeting pack: one trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-10
 
-The inputs for this trial are the invented example in [example.md](example.md), Company V. No client data was used.
+The inputs for this trial are the example in [example.md](example.md), Company V. No client data was used.
 
 How this run was made, plainly. An earlier run on the same day, by Claude Sonnet 5.5, a model that had not written the template, found gaps in the template: no rule for counting a risk's packs in the pasted instructions, no status for an action the pack itself delivers, no rule for whether something the board adds is a condition or an action, and no source for who leads each agenda slot. The template and the example were then revised to close those gaps, and the example's brief was reworded in two places (the first advice question and the cost of waiting). That earlier record no longer matched the template or the example, so it was replaced by this one. This run was made by the model that made the revision, with the template's instruction block and output format as they now stand, on the example's revised inputs. It is not a blind run: the example's own outputs and the earlier record had been read before it. Its agreement with the published example is therefore weaker evidence than an independent run would give.
 
@@ -338,7 +338,7 @@ Draft for Mara and Director A to confirm. Nothing has been sent, uploaded or cha
 
 ## What was observed
 
-Everything the format asks for was produced. Every export row appears in order; the variances reproduce to one decimal place; the two disagreeing reports are both shown and neither is chosen; the cancellation variance has CAUSE NEEDED rather than an invented cause; M1 and M2 keep the CEO's words and are marked CHECK; the held-back item appears once, by kind only, and nowhere in the questions or calls; the executive session is recorded only as held and for how long; and nothing was sent.
+Everything the format asks for was produced. Every export row appears in order; the variances reproduce to one decimal place; the two disagreeing reports are both shown and neither is chosen; the cancellation variance has CAUSE NEEDED rather than an illustrative cause; M1 and M2 keep the CEO's words and are marked CHECK; the held-back item appears once, by kind only, and nowhere in the questions or calls; the executive session is recorded only as held and for how long; and nothing was sent.
 
 The rules added in the revision decided the cases the earlier run had found open. The pack count gave R1 its 3rd pack and R2 and R3 their 4th. July action 1 came out Not yet due. The board's additions in the same agreed item came out as conditions, with the outcome Decided with changes, and the January report also as an action. Every management slot is led by Mara, because the brief names no one else, and the executive session has no lead from management.
 
@@ -353,7 +353,7 @@ The rules added in the revision decided the cases the earlier run had found open
 ### Facts not in the inputs
 
 - In this run: the year 2026 on the notes' "15 Dec" (taken from R2 in the pack), and "end of March 2027" for "Oct-Mar", with the notes' words kept beside it. Calculated figures show their working.
-- In the example: the closing narrative after each output (the answers Mara and Ravi gave, the confirmations) is invented, as the example says. It is not output of the template.
+- In the example: the closing narrative after each output (the answers Mara and Ravi gave, the confirmations) is illustrative, as the example says. It is not output of the template.
 
 ### Shortcomings in the template that remain
 

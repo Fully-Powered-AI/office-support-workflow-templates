@@ -1,10 +1,10 @@
-# Staff newsletter and FAQ roundup: trial on the invented example
+# Staff newsletter and FAQ roundup: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in `public/example.md` (Brindlecote Packaging, November 2026 issue): its issue settings, 13 team update rows, 6 staff questions, 3 approved sources and last month's issue. No client data was used. This is the record of the second of two runs, both on 10 November 2026.
+The inputs are the example in `public/example.md` (Brindlecote Packaging, November 2026 issue): its issue settings, 13 team update rows, 6 staff questions, 3 approved sources and last month's issue. No client data was used. This is the record of the second of two runs, both on 10 November 2026.
 
 ## The first run, and what changed after it
 

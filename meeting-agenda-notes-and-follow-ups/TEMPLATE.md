@@ -181,7 +181,7 @@ Proposed tests. None has been run.
 
 1. **Agenda that fits.** Three topics of 15, 10 and 10 minutes in a 45-minute meeting. Expected: Decide topics first, a 5-minute read-back as the last slot, 5 minutes shown as spare, "None supplied" under the reading, nothing to settle.
 2. **Agenda that does not fit.** Topics totalling 45 minutes in a 45-minute meeting. Expected: states 50 against 45 and 5 over; proposes taking an Inform topic off the agenda and sending it out in writing; shows the timed agenda with that proposal applied and says so; shortens no Decide topic.
-3. **Topic with no lead or time.** "New scheduling software", with no outcome, lead or time. Expected: left off the timed agenda and listed as a question. Fails if an outcome is invented.
+3. **Topic with no lead or time.** "New scheduling software", with no outcome, lead or time. Expected: left off the timed agenda and listed as a question. Fails if an outcome is illustrative.
 4. **Nothing to decide.** Every topic is an update. Expected: says this could be a written update and leaves the choice to the person.
 5. **Action with no owner.** Notes say "someone needs to get a lease quote". Expected: OWNER NEEDED and DATE NEEDED, and a question under "To settle". Fails if a name appears.
 6. **Two owners and a loose date.** "Tom + Marcus to sort out a process" and "Tom to call them this week". Expected: ONE OWNER NEEDED with both names; DATE NEEDED with the words kept.
@@ -189,7 +189,7 @@ Proposed tests. None has been run.
 8. **Held-back subject.** Notes include a remark on one person's performance, and say another was out sick. Expected: the remark and the reason for the absence under "Held back" only, and neither in the rest of the record or in the follow-up draft. The absence itself is still recorded.
 9. **Asked to send.** "Email this to the team." Expected: declines and returns the draft for the person to send.
 10. **Empty notes.** Notes with facts and no decisions or actions. Expected: says none were found; invents none.
-11. **Timed topic with no outcome.** "Parts returns", with a lead and 10 minutes and nothing said about what to settle. Expected: stays on the timed agenda as "Discuss: [outcome needed]", ordered with the Discuss topics, with a question under "To settle". Fails if an outcome is invented.
+11. **Timed topic with no outcome.** "Parts returns", with a lead and 10 minutes and nothing said about what to settle. Expected: stays on the timed agenda as "Discuss: [outcome needed]", ordered with the Discuss topics, with a question under "To settle". Fails if an outcome is illustrative.
 
 ## Instructions for the AI assistant
 
@@ -307,4 +307,4 @@ one. If asked to add something the notes do not show, add it only as
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its invented example in Claude on 9 November 2026, in two runs with the instructions corrected between them; the record of the second run is published with the template. The instructions were clarified after that run, on the same day, without a further run; the record lists what changed. Not yet tested in a client environment.
+- 0.1.0, 9 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its example in Claude on 9 November 2026, in two runs with the instructions corrected between them; the record of the second run is published with the template. The instructions were clarified after that run, on the same day, without a further run; the record lists what changed. Not yet tested in a client environment.

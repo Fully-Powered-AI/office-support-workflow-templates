@@ -4,9 +4,9 @@
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-10
 
-This trial used only the invented example that ships with the template. The charity, the funder, the people, the report and every figure are made up, and no client data was used.
+This trial used only the example that ships with the template. The charity, the funder, the people, the report and every figure are made up, and no client data was used.
 
-The template was tried three times on 10 November 2026, each time on that one invented example. The first run was done by a different model (Claude Sonnet 5.5) that did not write the template and had not read the example's output. It reached the same thirteen items, types, clashes and statuses as the example, and raised nine presentation and placement questions the template did not answer; they are summarised under "The first run" below. The template's procedure, instruction block and output format were then revised to answer them, and the example gained one line (the position of the insertion R1-04). The second run, on the revised template, is summarised under "The second run".
+The template was tried three times on 10 November 2026, each time on that one example. The first run was done by a different model (Claude Sonnet 5.5) that did not write the template and had not read the example's output. It reached the same thirteen items, types, clashes and statuses as the example, and raised nine presentation and placement questions the template did not answer; they are summarised under "The first run" below. The template's procedure, instruction block and output format were then revised to answer them, and the example gained one line (the position of the insertion R1-04). The second run, on the revised template, is summarised under "The second run".
 
 An independent review then asked for small amendments, and the template was amended: the base question gained a wording for when no base is supplied; the reviewer line and the instruction block now say "sender not stated" or "role not stated" where an input gives none; the instruction block now says to recommend nothing unless the owner asks; the rule to keep every reviewer's words now names its one exception, a comment about a person's performance, pay or conduct; and the procedure and instruction block now give a test for "a commitment to a client or funder" and the order of lines under "Watch items". This record is of the third run, on the amended template.
 
@@ -184,4 +184,4 @@ The second run, on the template as revised after the first run and before the re
 
 ### Shortcomings
 
-Three runs on one invented example, the second and third by the model that revised and amended the template and had seen the example's output. No run tried any of the template's thirteen acceptance tests, a later run with the owner's decisions, or any stop form, including the new no-base wording of the base question. Nothing here shows how the template behaves on a real document, on a real tracked-changes file or in another product.
+Three runs on one example, the second and third by the model that revised and amended the template and had seen the example's output. No run tried any of the template's thirteen acceptance tests, a later run with the owner's decisions, or any stop form, including the new no-base wording of the base question. Nothing here shows how the template behaves on a real document, on a real tracked-changes file or in another product.

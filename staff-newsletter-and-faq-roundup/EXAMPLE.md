@@ -1,6 +1,6 @@
-# Staff newsletter and FAQ roundup: an invented example
+# Staff newsletter and FAQ roundup: an example
 
-*Illustrative example with invented data.* Brindlecote Packaging is an invented 110-person maker of food packaging. Its people, customers, documents and dates are invented too. Dana, the office manager, puts together the monthly staff newsletter, and Martin, the managing director, approves each issue. On Thursday 26 November 2026 Dana gives the assistant everything below, in full, and gets back the issue check and the draft that follow.
+*Illustrative example with sample data.* Brindlecote Packaging is an illustrative 110-person maker of food packaging. Its people, customers, documents and dates are illustrative too. Dana, the office manager, puts together the monthly staff newsletter, and Martin, the managing director, approves each issue. On Thursday 26 November 2026 Dana gives the assistant everything below, in full, and gets back the issue check and the draft that follow.
 
 ## What Dana supplied
 

@@ -1,10 +1,10 @@
-# Business trip plan: trial on the invented example
+# Business trip plan: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID `claude-opus-5-5`)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in [`example.md`](example.md): the brief, the travel policy excerpt, the options table and the journey times, with the default settings. No client data was used.
+The inputs are the example in [`example.md`](example.md): the brief, the travel policy excerpt, the options table and the journey times, with the default settings. No client data was used.
 
 ## How the trial was run, and why it is not blind
 

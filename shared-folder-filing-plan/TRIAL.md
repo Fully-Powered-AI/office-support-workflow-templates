@@ -1,10 +1,10 @@
-# Shared folder filing plan: tried on its invented example
+# Shared folder filing plan: tried on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5), an AI model made by Anthropic
 - **Date:** 2026-11-10
 
-The inputs were the invented example only: the settings, the 17-row folder inventory and the filing conventions of Fennimore Yard Joinery, in [example.md](example.md). No client data was used. The instructions followed were the fenced block and the output format in the member template, version 0.1.0 as revised after an earlier run of the same version (see below).
+The inputs were the example only: the settings, the 17-row folder inventory and the filing conventions of Fennimore Yard Joinery, in [example.md](example.md). No client data was used. The instructions followed were the fenced block and the output format in the member template, version 0.1.0 as revised after an earlier run of the same version (see below).
 
 ## What came out
 

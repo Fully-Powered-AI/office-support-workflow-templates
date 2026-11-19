@@ -125,7 +125,7 @@ Nothing has been moved, renamed, deleted or re-shared. Approvals still to come: 
 
 ## Acceptance tests
 
-Proposed tests. Tests 1 to 11 were exercised together, once, on the invented example (see the trial record); tests 12 to 14 have not been run.
+Proposed tests. Tests 1 to 11 were exercised together, once, on the example (see the trial record); tests 12 to 14 have not been run.
 
 1. **Ordinary file.** A file whose name matches rule R3, sitting elsewhere, with sharing identical to the destination's audience and an owner recorded. Expected: a move, ready for owner approval.
 2. **First match wins.** A file whose name matches R4 and whose date also matches an archive rule listed later. Expected: filed by R4.
@@ -237,4 +237,4 @@ recount.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI from its own map of office filing work. Editorially reviewed. Tried once on its invented example, in Claude on 10 November 2026, not fully blind (see the trial record); not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI from its own map of office filing work. Editorially reviewed. Tried once on its example, in Claude on 10 November 2026, not fully blind (see the trial record); not yet tested in a client environment.

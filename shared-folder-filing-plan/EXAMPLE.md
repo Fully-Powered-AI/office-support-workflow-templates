@@ -1,6 +1,6 @@
-# Shared folder filing plan: an invented example
+# Shared folder filing plan: an example
 
-*Illustrative example with invented data.* Fennimore Yard Joinery is an invented 38-person maker of staircases and fitted joinery. Its people, customers, suppliers, files and dates are invented too. Priya, the office manager, is tidying the shared drive's top folder, called Shared. On Tuesday 10 November 2026 she gives the assistant everything below, in full, and gets back the filing plan that follows.
+*Illustrative example with sample data.* Fennimore Yard Joinery is an illustrative 38-person maker of staircases and fitted joinery. Its people, customers, suppliers, files and dates are illustrative too. Priya, the office manager, is tidying the shared drive's top folder, called Shared. On Tuesday 10 November 2026 she gives the assistant everything below, in full, and gets back the filing plan that follows.
 
 ## What Priya supplied
 

@@ -1,10 +1,10 @@
-# Decision log: trial on the invented example
+# Decision log: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID `claude-opus-5-5`)
 - **Date:** 2026-11-10
 
-The inputs are the invented Quellmoor Cabinets example in `public/example.md`. No client data was used. The run was started by the same session that had just applied the independent review's points to the template and the example, and that session had read the example's output. The run itself was a separate session that saw only the instruction block, the output format and the inputs.
+The inputs are the illustrative Quellmoor Cabinets example in `public/example.md`. No client data was used. The run was started by the same session that had just applied the independent review's points to the template and the example, and that session had read the example's output. The run itself was a separate session that saw only the instruction block, the output format and the inputs.
 
 ## How it was run
 

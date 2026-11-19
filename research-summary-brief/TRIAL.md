@@ -1,14 +1,14 @@
-# Research summary brief: tried once on its own invented example
+# Research summary brief: tried once on its own example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in `public/example.md`: the request and settings, and the three invented documents, taken exactly as the example gives them. No client data was used. The model did not write the template. It read the template and only those inputs, followed the instruction block and the output format, produced the brief below, and only then read the example's published output and the reviewer checklist.
+The inputs are the example in `public/example.md`: the request and settings, and the three sample documents, taken exactly as the example gives them. No client data was used. The model did not write the template. It read the template and only those inputs, followed the instruction block and the output format, produced the brief below, and only then read the example's published output and the reviewer checklist.
 
 ## Inputs used
 
-From `public/example.md`, section "What the analyst supplied": the request and settings, Document 1 (a trade association's member survey), Document 2 (a leasing company's white paper) and Document 3 (a trade magazine article). Nothing else was supplied. The example's introduction, which names the invented company and the analyst's job, was not used as input, because it is not part of what the analyst pasted.
+From `public/example.md`, section "What the analyst supplied": the request and settings, Document 1 (a trade association's member survey), Document 2 (a leasing company's white paper) and Document 3 (a trade magazine article). Nothing else was supplied. The example's introduction, which names the illustrative company and the analyst's job, was not used as input, because it is not part of what the analyst pasted.
 
 *Note added after the run:* at the time of this run the example's request had no "Prepared by" line. The line "Prepared by: operations analyst, the Distributor (regional food distributor)." was added to the example's request afterward (see "Changes made after this run"). The output below is from the request without it.
 
@@ -204,7 +204,7 @@ in its source. Nothing was searched for, sent or changed.
   - Both outputs have the same sources, codes, and the same two agreements, three disagreements and the same cited-but-not-supplied entry.
 - **Facts in either output that are not in the inputs.** None found in this run's output. The published example's output uses "Operations analyst", "Distributor" and the two dates of the discussion; the discussion date and reader appear in the request, but "Operations analyst" and "the Distributor" come only from the example's introduction.
 - **Reviewer checklist, applied to this run's output.** All nine points hold on a re-read: figures and quotations match the documents; no quotation joins passages; titles, authors and dates are as printed with "not given" where nothing was printed; each finding has a basis label; the one same-data agreement is counted once (with its assumption flagged); disagreements show both sides and pick neither; nothing came from outside the documents; "In short" has no advice; and the "To settle" count (5) is stated.
-- **Limits of this trial.** One model, one run, one invented example. It shows the instructions can be followed to a complete, checkable brief. It does not show how the template behaves with real documents, with scanned PDFs, or with a different AI product. Other acceptance tests listed in the template were not run.
+- **Limits of this trial.** One model, one run, one example. It shows the instructions can be followed to a complete, checkable brief. It does not show how the template behaves with real documents, with scanned PDFs, or with a different AI product. Other acceptance tests listed in the template were not run.
 
 ## Changes made after this run
 

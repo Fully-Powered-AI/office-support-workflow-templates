@@ -1,11 +1,11 @@
-# Meeting agenda, notes and follow-ups: one trial on its invented example
+# Meeting agenda, notes and follow-ups: one trial on its example
 
 - **Product:** Claude Code
 - **Model:** Claude Fable 5.2
 - **Date:** 2026-11-09
 - **Runs:** two on the same day; this page records the second, on the instructions as they stood for that run
 
-The inputs are the invented example published with this template. The company, its people, its figures and its jobs are invented, and no client data was used. This is a record of one run on that example. It is not a test in any company's environment.
+The inputs are the example published with this template. The company, its people, its figures and its jobs are illustrative, and no client data was used. This is a record of one run on that example. It is not a test in any company's environment.
 
 An earlier run on the same day, on an earlier wording of the instructions, came out differently from the published example in several places. The instructions and the example were corrected afterwards, and the template was run again. This page records the second run. What the first run found, and what was changed, is at the end.
 

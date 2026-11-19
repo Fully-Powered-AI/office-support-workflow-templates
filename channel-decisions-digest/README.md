@@ -8,7 +8,7 @@ A dated digest of one team channel: decisions and who made them, open questions,
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/channel-decisions-digest/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-channel-decisions-digest&from=gh-channel-decisions-digest)*
@@ -48,7 +48,7 @@ A dated digest in a fixed order:
 
 A count of messages on personal matters, left out, closes it. Every line cites its message id and timestamp. The digest reads to the period's last date only: a promise due on that date is shown as open and is not flagged, and a promise is flagged as past its date only when the date falls before the period's last date.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -69,7 +69,7 @@ Choose the channels worth a digest and the day it runs. Decide which channels ma
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 19 November 2026. It was tried once on its invented example in Claude on 19 November 2026; the record is published with it. The template and the example were changed after that run, as the record says, and it has not been run again. It has not yet been tested in a client environment, or as a packaged version in an AI assistant.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 19 November 2026. It was tried once on its example in Claude on 19 November 2026; the record is published with it. The template and the example were changed after that run, as the record says, and it has not been run again. It has not yet been tested in a client environment, or as a packaged version in an AI assistant.
 
 Testing in your environment means running it on two or three past weeks of a channel whose outcome you already know, plus hard cases written in advance: a tentative "I think we should", a request nobody took up, a "we'll do it soon", a reply that only says "let me check", an export with different column names. The channel's owner checks every line against its message before anyone relies on the digest. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-channel-decisions-digest&from=gh-channel-decisions-digest) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-channel-decisions-digest&from=gh-channel-decisions-digest) describes the record we keep.
 
@@ -77,13 +77,13 @@ Testing in your environment means running it on two or three past weeks of a cha
 - Sources and rights reviewed.
 - Editorially reviewed on 19 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 19 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 19 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

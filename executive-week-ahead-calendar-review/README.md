@@ -8,7 +8,7 @@ Hand the executive one brief on clashes, tight journeys, meetings with no purpos
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/executive-week-ahead-calendar-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-executive-week-ahead-calendar-review&from=gh-executive-week-ahead-calendar-review)*
@@ -47,7 +47,7 @@ One brief, always in the same order:
 
 Every figure in the brief can be added up again from the export, and nothing in it reads as a change already made.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -68,7 +68,7 @@ Set the working hours, the base and the protected times your executive actually 
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template from its own published map of executive and office support work. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, by a model that did not write it, and the record is published. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template from its own published map of executive and office support work. It was editorially reviewed on 10 November 2026. It was tried once on its example in Claude on 10 November 2026, by a model that did not write it, and the record is published. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your office means running it on two or three past weeks the assistant remembers well and comparing the brief with what happened, plus hard cases written in advance: a header named differently in the export, a journey with no time supplied, a private event that overlaps a meeting, a priority the week cannot hold, an all-day absence with a meeting booked on it. The assistant checks every figure against the export before the executive relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-executive-week-ahead-calendar-review&from=gh-executive-week-ahead-calendar-review) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-executive-week-ahead-calendar-review&from=gh-executive-week-ahead-calendar-review) describes the record we keep.
 
@@ -76,13 +76,13 @@ Testing in your office means running it on two or three past weeks the assistant
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
