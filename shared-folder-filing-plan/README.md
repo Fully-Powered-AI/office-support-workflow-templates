@@ -4,6 +4,8 @@ The office coordinator gets a plan for tidying a shared folder: a proposed folde
 
 *Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/shared-folder-filing-plan/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/shared-folder-filing-plan/?from=gh-shared-folder-filing-plan)
+
 ## The outcome
 
 Tidying a shared folder usually stalls on the same few worries: whose file is this, will moving it lock somebody out, is there already a copy somewhere. This workflow template puts those worries on one page before anybody touches a file. You get the folder structure your own filing conventions imply, a list of moves with each document's owner named beside it, and a short list of questions, each addressed to one person.

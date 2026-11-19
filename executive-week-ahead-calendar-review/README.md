@@ -4,6 +4,8 @@ Before the week starts, the executive assistant hands the executive one brief: e
 
 *Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/executive-week-ahead-calendar-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/executive-week-ahead-calendar-review/?from=gh-executive-week-ahead-calendar-review)
+
 ## The outcome
 
 The executive walks into Monday knowing what the week asks of them, and the problems are settled on Thursday instead of discovered at ten past nine. Two meetings booked on top of each other, a client visit that ends fifteen minutes before a stand-up across town, a four-hour morning with no gap, a "catch-up" nobody has explained, a board pack with no time to read it: each one is on the page, with the facts, as a question.

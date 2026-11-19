@@ -4,6 +4,8 @@ Every task a manager hands over goes with a clear brief: what to deliver, in wha
 
 *Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/delegation-brief-and-follow-up/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/delegation-brief-and-follow-up/?from=gh-delegation-brief-and-follow-up)
+
 ## The outcome
 
 Work leaves the manager's desk once and lands clearly. The person who takes it on knows exactly what to hand back, when, for whom and how far they can go without asking. Nobody has to guess what "the survey thing" meant, and nobody finds out on the due date that the date never worked for them.

@@ -4,6 +4,8 @@ The assistant hands the traveller one plan for one business trip: dates and nigh
 
 *Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/business-trip-plan/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/business-trip-plan/?from=gh-office-support-business-trip-plan)
+
 ## The outcome
 
 A trip that used to live in a dozen browser tabs and a chain of messages fits on one page. The traveller sees when they leave, where they sleep, how they get from the airport to the first meeting and how much slack each connection has. The booker sees which flight and hotel fit the meetings and the policy, what each costs, how fresh each price is, and the date each booking has to be made by.

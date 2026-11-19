@@ -4,6 +4,8 @@ The owner of a document that came back from several reviewers gets one checklist
 
 *Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/reviewer-comments-resolution-list/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/reviewer-comments-resolution-list/?from=gh-reviewer-comments-resolution-list)
+
 ## The outcome
 
 Three marked-up copies, two emails and a note from a phone call become one list you can work down in a sitting. Every suggestion is there once, under the name of the person who made it, in their own words, filed under the section of the document it belongs to. Where two reviewers want different things from the same sentence, you see both together and choose.

@@ -4,6 +4,8 @@ The owner, or the assistant who keeps their inbox, starts the day knowing what n
 
 *Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/inbox-triage/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/inbox-triage/?from=gh-office-support-inbox-triage)
+
 ## The outcome
 
 The morning begins with one page. The few messages that cannot wait until tomorrow sit at the top, each with a line on what waiting would cost and a reply already drafted the way the owner writes. Everything else has a place: a colleague who should deal with it, with a note ready to forward; a date it should be answered by; or a count of receipts, newsletters and sales pitches that need nothing at all.

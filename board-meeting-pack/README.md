@@ -4,6 +4,8 @@ Before each board meeting, the CEO gets a pre-read built on the one decision the
 
 *Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/board-meeting-pack/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/board-meeting-pack/?from=gh-office-support-board-meeting-pack)
+
 ## The outcome
 
 Your board meeting is spent on a decision, not on reading slides aloud. Directors open the pack and see on the first page what they are asked to decide, what the CEO recommends and the two questions where their experience is wanted. Behind that sit three messages, each backed by figures that name the report they came from, a brief that lays out the options, carrying on as planned always one of them, and the standing figures against plan in a fixed order that stays the same from one meeting to the next.

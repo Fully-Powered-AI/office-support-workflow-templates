@@ -4,6 +4,8 @@ Each month the office manager turns what teams send in into one staff newsletter
 
 *Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/staff-newsletter-and-faq-roundup/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/staff-newsletter-and-faq-roundup/?from=gh-staff-newsletter-and-faq-roundup)
+
 ## The outcome
 
 Your whole company hears the month's news in one place, in the same shape every month. Every team's wins carry that team's name. The dates people need for the next six weeks are in order. New colleagues are welcomed, with their agreement.

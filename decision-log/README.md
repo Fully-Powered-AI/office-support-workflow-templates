@@ -4,6 +4,8 @@ Your chief of staff keeps one register of what the leadership actually approved,
 
 *Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/decision-log/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/decision-log/?from=gh-office-support-decision-log)
+
 ## The outcome
 
 Everyone can see what the leadership settled, and only that. One register holds every approved decision with its date, its approver, the reason given and the options turned down, and every action that follows from it, each with one owner and one date. A conversation that sounded like agreement never becomes a decision by accident: anything that was only discussed stays out, listed apart, until an approver says yes.

@@ -4,6 +4,8 @@ Whoever runs the meeting walks in with an agenda where every topic has an outcom
 
 *Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/meeting-agenda-notes-and-follow-ups/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/meeting-agenda-notes-and-follow-ups/?from=gh-meeting-agenda-notes-and-follow-ups)
+
 ## The outcome
 
 Every meeting you run ends in decisions and owners, on one page, the same day. People arrive knowing what will be decided and what to read first. They leave with their own actions in writing, each with a date. Next week’s meeting opens on what was promised, so nothing is discussed twice.

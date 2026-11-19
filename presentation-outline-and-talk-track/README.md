@@ -4,6 +4,8 @@ Anyone presenting to a board, a client or a conference gets a storyboard built o
 
 *Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/presentation-outline-and-talk-track/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/presentation-outline-and-talk-track/?from=gh-presentation-outline-and-talk-track)
+
 ## The outcome
 
 You stand up knowing exactly what you want the room to remember, and you can say it in one sentence. The talk is built on that sentence: a few points that make it true, the facts behind each, and a slide for each point whose headline says the point outright. Read the headlines alone and the story is already there.

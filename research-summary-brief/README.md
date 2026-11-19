@@ -4,6 +4,8 @@ An executive handed a pile of reports, articles or papers gets one brief: what e
 
 *Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/research-summary-brief/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/research-summary-brief/?from=gh-office-support-research-summary-brief)
+
 ## The outcome
 
 The reading gets done before the meeting, and the reader can see exactly how far the evidence goes. Every source is set out the same way: who produced it, how, what it found, and what it cannot carry. Each finding is labelled for what lies under it: the document's own data, a figure borrowed from somewhere else, one person's account, or an opinion.
