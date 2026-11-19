@@ -60,6 +60,8 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-executive-week-ahead-calendar-review&from=gh-executive-week-ahead-calendar-review): a calendar that has run on habit for years and deserves a weekly check.
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-executive-week-ahead-calendar-review&from=gh-executive-week-ahead-calendar-review): an executive whose meetings multiply faster than the time to prepare for them.
 
+See all the [legal AI workflow examples](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=office-support-executive-week-ahead-calendar-review&from=gh-executive-week-ahead-calendar-review) for law firms.
+
 ## What has to change for your company
 
 Set the working hours, the base and the protected times your executive actually keeps. Decide the shortest break worth keeping, the longest run of meetings before it is flagged, and how long a reserved block should be. Write down the travel times between the places your executive goes most; the workflow template never guesses a journey. Agree how preparation time is labelled in the calendar, which events are always shown as private, and whether the executive wants a view on conflicts or only the facts. It is written to run in ChatGPT, Claude, Copilot or Gemini from an export the assistant makes; decide which calendar fields that export may include.
